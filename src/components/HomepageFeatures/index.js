@@ -1,0 +1,56 @@
+import clsx from 'clsx';
+import Heading from '@theme/Heading';
+import styles from './styles.module.css';
+
+const FeatureList = [
+  {
+    title: 'About ME',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        Engineer with experience in firmware development, familiar with Windows notebook, server, and customer fulfillment. 
+        Specialized in problem-solving, debugging, and issue management, with a focus on solutions.
+      </>
+    ),
+  },
+  {
+    title: 'Tehnical Skill',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    description: (
+      <>
+        BIOS/Firmware development Project Management
+        Software and System Technology
+        System architecture
+      </>
+    ),
+  },
+];
+
+function Feature({Svg, title, description}) {
+  return (
+    //col--6 此部分可調整寬度
+    <div className={clsx('col col--6')}> 
+      <div className="text--center">
+        <Svg className={styles.featureSvg} role="img" />
+      </div>
+      <div className="text--left padding-horiz--md">
+        <Heading as="h3">{title}</Heading>
+        <p>{description}</p>
+      </div>
+    </div>
+  );
+}
+
+export default function HomepageFeatures() {
+  return (
+    <section className={styles.features}>
+      <div className="container">
+        <div className="row">
+          {FeatureList.map((props, idx) => (
+            <Feature key={idx} {...props} />
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}
