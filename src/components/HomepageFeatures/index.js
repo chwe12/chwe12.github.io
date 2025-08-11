@@ -8,7 +8,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Engineer with experience in firmware development, familiar with Windows notebook, server, and customer fulfillment. 
+        Engineer with experience in firmware development, familiar with Windows notebook, server, and customer fulfillment.
+        <br /><br />
         Specialized in problem-solving, debugging, and issue management, with a focus on solutions.
       </>
     ),
@@ -19,7 +20,9 @@ const FeatureList = [
     description: (
       <>
         BIOS/Firmware development Project Management
+        <br />
         Software and System Technology
+        <br />
         System architecture
       </>
     ),

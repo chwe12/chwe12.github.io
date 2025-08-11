@@ -31,7 +31,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'chwe12',
   projectName: 'chwe12.github.io',
-  deploymentBranch: 'gh-pages',
+  deploymentBranch: 'main',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
