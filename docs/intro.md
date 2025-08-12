@@ -23,8 +23,6 @@ System architecture
 
 ### December 2022 – Presen
 
-Advantech, Industrial Server
-
 - Application Engineer, provide technical support.
 - Cross team communication, responsible for customer fulfillment services and resolving technical issues.
 - Handle training courses for global members, Sales team, channel partner.
