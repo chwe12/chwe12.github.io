@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://chwe12.github.io/blog</id>
+    <title>squirrel Site Blog</title>
+    <updated>2025-08-12T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://chwe12.github.io/blog"/>
+    <subtitle>squirrel Site Blog</subtitle>
+    <icon>https://chwe12.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>https://chwe12.github.io/blog/first-blog-post</id>
+        <link href="https://chwe12.github.io/blog/first-blog-post"/>
+        <updated>2025-08-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Try the first blog post]]></summary>
+        <content type="html"><![CDATA[<p>Try the first blog post</p>]]></content>
+        <author>
+            <name>xx</name>
+            <uri>https://github.com/chwe12</uri>
+        </author>
+        <category label="day" term="day"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>

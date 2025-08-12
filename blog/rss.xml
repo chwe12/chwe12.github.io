@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>squirrel Site Blog</title>
+        <link>https://chwe12.github.io/blog</link>
+        <description>squirrel Site Blog</description>
+        <lastBuildDate>Tue, 12 Aug 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[First Blog Post]]></title>
+            <link>https://chwe12.github.io/blog/first-blog-post</link>
+            <guid>https://chwe12.github.io/blog/first-blog-post</guid>
+            <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Try the first blog post]]></description>
+            <content:encoded><![CDATA[<p>Try the first blog post</p>]]></content:encoded>
+            <category>day</category>
+            <category>docusaurus</category>
+        </item>
+    </channel>
+</rss>
