@@ -7,4 +7,7 @@ authors:
 tags: [journal, test]
 ---
 
-Try the first blog post...
+Try the first blog post...  
+
+修改預設介紹內容  
+成功改掉預設的svg圖案
