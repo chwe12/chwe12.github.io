@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1088" height="688" viewBox="0 0 1088 688" role="img" aria-labelledby="title desc">
+  <title id="title">Flat Solar System Illustration (No Labels)</title>
+  <desc id="desc">Flat vector depiction of the Solar System with the Sun and planets in alignment, orbits, and background stars, without text labels.</desc>
+
+  <!-- 調色盤 -->
+  <defs>
+    <linearGradient id="bgSpace" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#08121D"/>
+      <stop offset="1" stop-color="#0E1E2C"/>
+    </linearGradient>
+    <g id="star"><circle r="1.8"/></g>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="1088" height="688" fill="url(#bgSpace)"/>
+
+  <!-- 星星背景 -->
+  <g fill="#FFFFFF" opacity=".8">
+    <use href="#star" x="100" y="80"/>
+    <use href="#star" x="250" y="120"/>
+    <use href="#star" x="400" y="60"/>
+    <use href="#star" x="580" y="100"/>
+    <use href="#star" x="760" y="80"/>
+    <use href="#star" x="900" y="140"/>
+    <use href="#star" x="1040" y="60"/>
+    <use href="#star" x="180" y="300"/>
+    <use href="#star" x="340" y="280"/>
+    <use href="#star" x="500" y="240"/>
+    <use href="#star" x="680" y="280"/>
+    <use href="#star" x="860" y="260"/>
+    <use href="#star" x="1020" y="300"/>
+    <use href="#star" x="150" y="500"/>
+    <use href="#star" x="320" y="540"/>
+    <use href="#star" x="480" y="520"/>
+    <use href="#star" x="640" y="560"/>
+    <use href="#star" x="820" y="540"/>
+    <use href="#star" x="980" y="500"/>
+  </g>
+
+  <!-- 太陽 -->
+  <circle cx="120" cy="344" r="80" fill="#FFD05A"/>
+  <circle cx="120" cy="344" r="70" fill="#FFC13C"/>
+  <circle cx="120" cy="344" r="60" fill="#FFB020"/>
+
+  <!-- 行星軌道 -->
+  <g stroke="#FFFFFF" opacity=".15" fill="none">
+    <ellipse cx="120" cy="344" rx="160" ry="160"/>
+    <ellipse cx="120" cy="344" rx="240" ry="240"/>
+    <ellipse cx="120" cy="344" rx="320" ry="320"/>
+    <ellipse cx="120" cy="344" rx="400" ry="400"/>
+    <ellipse cx="120" cy="344" rx="480" ry="480"/>
+  </g>
+
+  <!-- 行星 -->
+  <circle cx="280" cy="344" r="6" fill="#C2B280"/> <!-- 水星 -->
+  <circle cx="360" cy="344" r="10" fill="#D1A054"/> <!-- 金星 -->
+  <circle cx="440" cy="344" r="12" fill="#4A90E2"/> <!-- 地球 -->
+  <circle cx="440" cy="344" r="10" fill="#6CC3FF" opacity=".5"/>
+  <circle cx="520" cy="344" r="9" fill="#C1440E"/> <!-- 火星 -->
+  <circle cx="640" cy="344" r="30" fill="#D9A066"/> <!-- 木星 -->
+  <path d="M610,338 q30,12 60,0" fill="none" stroke="#B87B3D" stroke-width="6" opacity=".6"/>
+  <path d="M610,350 q30,12 60,0" fill="none" stroke="#B87B3D" stroke-width="6" opacity=".6"/>
+  <circle cx="760" cy="344" r="26" fill="#E0C068"/> <!-- 土星 -->
+  <ellipse cx="760" cy="344" rx="50" ry="14" fill="none" stroke="#B89845" stroke-width="6"/>
+  <circle cx="880" cy="344" r="18" fill="#76D7C4"/> <!-- 天王星 -->
+  <circle cx="980" cy="344" r="16" fill="#4A70C9"/> <!-- 海王星 -->
+</svg>

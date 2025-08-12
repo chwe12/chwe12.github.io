@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1088" height="688" viewBox="0 0 1088 688">
+  <!-- 背景 -->
+  <rect width="1088" height="688" fill="#0f2331"/>
+
+  <!-- 月亮 -->
+  <g transform="translate(870,120)">
+    <circle r="60" fill="#ffde7a"/>
+    <path d="M0,-60 A60,60 0 1,0 0,60
+             A42,60 0 1,1 0,-60 Z" fill="#0f2331"/>
+  </g>
+
+  <!-- 帶環行星 -->
+  <g transform="translate(520,360)">
+    <circle r="110" fill="#d07a2b"/>
+    <!-- 環 -->
+    <ellipse rx="190" ry="60" fill="none" stroke="#c06d23" stroke-width="24"/>
+    <ellipse rx="190" ry="60" fill="none" stroke="#a85f1f" stroke-width="12" opacity=".6"/>
+  </g>
+
+  <!-- 次要行星 -->
+  <g transform="translate(180,130)">
+    <circle r="34" fill="#ffde7a"/>
+    <circle cx="-12" cy="-6" r="5" fill="#e0c86a"/>
+    <circle cx="10" cy="8" r="4" fill="#e0c86a"/>
+  </g>
+  <g transform="translate(890,480)">
+    <circle r="52" fill="#2e5a74"/>
+    <path d="M-52,0 q26,-18 52,0 q26,18 52,0" fill="none" stroke="#244a61" stroke-width="10"/>
+    <path d="M-52,18 q26,-18 52,0 q26,18 52,0" fill="none" stroke="#244a61" stroke-width="10"/>
+  </g>
+
+  <!-- 流星 -->
+  <g fill="#ffde7a">
+    <path d="M240,520 l-80,22 l68,-48 z" opacity=".9"/>
+    <circle cx="240" cy="520" r="10"/>
+    <path d="M760,220 l90,-20 l-70,50 z" opacity=".9"/>
+    <circle cx="760" cy="220" r="10"/>
+  </g>
+
+  <!-- 星星（多種形狀） -->
+  <g fill="#ffde7a">
+    <!-- 小圓星 -->
+    <circle cx="90" cy="90" r="4"/>
+    <circle cx="150" cy="200" r="3"/>
+    <circle cx="220" cy="80" r="3"/>
+    <circle cx="310" cy="170" r="3"/>
+    <circle cx="420" cy="90" r="3"/>
+    <circle cx="620" cy="120" r="3"/>
+    <circle cx="720" cy="80" r="3"/>
+    <circle cx="980" cy="160" r="3"/>
+    <circle cx="1040" cy="90" r="3"/>
+    <circle cx="160" cy="380" r="3"/>
+    <circle cx="60" cy="440" r="3"/>
+    <circle cx="300" cy="430" r="3"/>
+    <circle cx="480" cy="520" r="3"/>
+    <circle cx="640" cy="470" r="3"/>
+    <circle cx="780" cy="560" r="3"/>
+    <circle cx="980" cy="420" r="3"/>
+  </g>
+
+  <!-- 菱形星 -->
+  <g fill="#ffd55c">
+    <path d="M300,120 l10,16 l-10,16 l-10,-16 z"/>
+    <path d="M420,220 l10,16 l-10,16 l-10,-16 z"/>
+    <path d="M600,80 l10,16 l-10,16 l-10,-16 z"/>
+    <path d="M760,160 l10,16 l-10,16 l-10,-16 z"/>
+    <path d="M960,260 l10,16 l-10,16 l-10,-16 z"/>
+    <path d="M220,300 l10,16 l-10,16 l-10,-16 z"/>
+    <path d="M520,260 l10,16 l-10,16 l-10,-16 z"/>
+    <path d="M700,320 l10,16 l-10,16 l-10,-16 z"/>
+    <path d="M860,360 l10,16 l-10,16 l-10,-16 z"/>
+  </g>
+
+  <!-- 四角星 -->
+  <g fill="#ffe387">
+    <path d="M120,260
+             l12,-6 l6,-12 l6,12 l12,6
+             l-12,6 l-6,12 l-6,-12 z"/>
+    <path d="M360,500
+             l12,-6 l6,-12 l6,12 l12,6
+             l-12,6 l-6,12 l-6,-12 z"/>
+    <path d="M640,560
+             l12,-6 l6,-12 l6,12 l12,6
+             l-12,6 l-6,12 l-6,-12 z"/>
+    <path d="M940,540
+             l12,-6 l6,-12 l6,12 l12,6
+             l-12,6 l-6,12 l-6,-12 z"/>
+  </g>
+</svg>

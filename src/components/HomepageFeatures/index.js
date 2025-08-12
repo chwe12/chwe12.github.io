@@ -5,18 +5,18 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'About ME',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/universe.svg').default,
     description: (
       <>
-        Engineer with experience in firmware development, familiar with Windows notebook, server, and customer fulfillment.
-        <br /><br />
-        Specialized in problem-solving, debugging, and issue management.
+        Engineer with experience in firmware development, familiar with notebook and server systems.
+        <br />
+        Specializing in problem-solving, debugging, and issue management.
       </>
     ),
   },
   {
     title: 'Tehnical Skill',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/squirrel2.svg').default,
     description: (
       <>
         BIOS/Firmware development Project Management
