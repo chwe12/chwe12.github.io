@@ -2,28 +2,19 @@
 sidebar_position: 1
 ---
 
-## About ME
+## 關於我
 
-Engineer with experience in firmware development, familiar with Windows notebook, server system, and customer fulfillment. 
+一邊上班一邊研究有興趣的各種知識的工程師，
+對天文物理很有興趣，但很多知識太專業了只能用很簡單的角度理解。
 
-Ability to manage cross-functional teams and resolve technical issues. 
+## 興趣
 
-Specialized in problem-solving, debugging, and issue management, with a focus on delivering  solutions.
+- 玩電腦遊戲
+- 閱讀各種類型的書 
+- 學習天文知識
+- 參加自己感興趣的課程
+- 松鼠尾巴很可愛
 
-## Tehnical Skill
+## 我的理念
 
-BIOS/Firmware development Project Management
-
-Software and System Technology
-
-System architecture
-
-
-## Work Experience
-
-### December 2022 – Presen
-
-- Application Engineer, provide technical support.
-- Cross team communication, responsible for customer fulfillment services and resolving technical issues.
-- Handle training courses for global members, Sales team, channel partner.
-- I have written FAQ/SOP documents on how to solve and analyze common technical issues.
+還不知道人生的目標是甚麼，但走一步算一步

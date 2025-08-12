@@ -10,7 +10,7 @@ const FeatureList = [
       <>
         Engineer with experience in firmware development, familiar with Windows notebook, server, and customer fulfillment.
         <br /><br />
-        Specialized in problem-solving, debugging, and issue management, with a focus on solutions.
+        Specialized in problem-solving, debugging, and issue management.
       </>
     ),
   },

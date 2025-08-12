@@ -2,9 +2,9 @@
 slug: first-blog-post
 title: First Blog Post
 authors:
-  name: xx
+  name: Squirrel
   url: https://github.com/chwe12
-tags: [day, docusaurus]
+tags: [journal, test]
 ---
 
-Try the first blog post
+Try the first blog post...
