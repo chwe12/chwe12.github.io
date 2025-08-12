@@ -14,8 +14,8 @@
         <updated>2025-08-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Try the first blog post...]]></summary>
         <content type="html"><![CDATA[<p>Try the first blog post...</p>
-<p>修改預設介紹內容
-成功改掉預設的svg圖案</p>]]></content>
+<p>修改預設介紹內容<br>
+<!-- -->成功改掉預設的svg圖案</p>]]></content>
         <author>
             <name>Squirrel</name>
             <uri>https://github.com/chwe12</uri>

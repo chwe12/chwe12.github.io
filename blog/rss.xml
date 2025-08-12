@@ -15,8 +15,8 @@
             <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Try the first blog post...]]></description>
             <content:encoded><![CDATA[<p>Try the first blog post...</p>
-<p>修改預設介紹內容
-成功改掉預設的svg圖案</p>]]></content:encoded>
+<p>修改預設介紹內容<br>
+<!-- -->成功改掉預設的svg圖案</p>]]></content:encoded>
             <category>journal</category>
             <category>test</category>
         </item>
