@@ -18,7 +18,7 @@
             <name>xx</name>
             <uri>https://github.com/chwe12</uri>
         </author>
-        <category label="day" term="day"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <category label="journal" term="journal"/>
+        <category label="test" term="test"/>
     </entry>
 </feed>
