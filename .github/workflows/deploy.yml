@@ -2,37 +2,28 @@ name: Deploy Docusaurus site to GitHub Pages
 
 on:
   push:
-    branches:
-      - source   # 監聽 source 分支
+    branches: [source]
 
 permissions:
-  contents: write   # 給 actions 寫入權限
+  contents: write
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
+        with: { fetch-depth: 0 }
+
+      - uses: actions/setup-node@v3
+        with: { node-version: 18 }
+
+      - run: npm install
+      - run: npm run build
+
+      - name: Deploy to gh-pages (main)
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          fetch-depth: 0
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Build website
-        run: npm run build
-
-      - name: Deploy to GitHub Pages
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          npx docusaurus deploy
-        env:
-          GIT_USER: github-actions[bot]
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+          publish_branch: main
+          force_orphan: true
