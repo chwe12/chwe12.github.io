@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://chwe12.github.io/blog</id>
+    <title>squirrel Site Blog</title>
+    <updated>2025-09-23T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://chwe12.github.io/blog"/>
+    <subtitle>squirrel Site Blog</subtitle>
+    <icon>https://chwe12.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025-09-23 日常紀錄]]></title>
+        <id>https://chwe12.github.io/blog/2025-09-23</id>
+        <link href="https://chwe12.github.io/blog/2025-09-23"/>
+        <updated>2025-09-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. 成功把arduino連上藍芽和濕度感測器，也成功抓到數值，不過沒有拿另一個濕度感測器做校正。]]></summary>
+        <content type="html"><![CDATA[<ol>
+<li>成功把arduino連上藍芽和濕度感測器，也成功抓到數值，不過沒有拿另一個濕度感測器做校正。 <br></li>
+<li>把樹莓派5的連線弄好，沒有買藍芽滑鼠鍵盤有點麻煩，但突發奇想把ipad的藍芽鍵盤拆下來用， <br>
+很可惜的是藍芽鍵盤觸控的地方可能有特別對ipad做設定，所以觸控沒辦法滑到整個螢幕， <br>
+不過也沒關係...至少我可以用藍芽鍵盤打字。<br></li>
+<li>學會用筆電的cmd SS連線到樹莓派，還在想接下來要幫他設定甚麼，總之可以SSH連線真是太好了，而且可以不需要使用Putty。<br>
+本來還想再試一下遠端桌面，不過好像有bug的樣子，雖然可以連線進去但是會黑屏。</li>
+<li>SSH 連線的方式是在CMD內打 ssh (個人帳號@hostname)，打上密碼之後就可以連線了，比設定VNC簡單許多。<br>
+現在的問題應該是如果我在外面要連上這台樹莓派，好像得先遠端連進我的筆電，如果把樹莓派帶出去又變成需要設定網路。<br></li>
+<li>筆記軟體一直都使用很多種，最後習慣用的剩下onenote、notion、anytype，各有各的優缺點實在沒辦法統整成一個。<br>
+最近有點煩惱anytype不用電腦操作的話整理筆記有點麻煩，而且雲端使用的容量不夠多，光是在onenote的筆記就GB起跳了...<br></li>
+</ol>]]></content>
+        <author>
+            <name>Squirrel</name>
+            <uri>https://github.com/chwe12</uri>
+        </author>
+        <category label="journal" term="journal"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025-09-09 日常紀錄]]></title>
+        <id>https://chwe12.github.io/blog/2025-09-09</id>
+        <link href="https://chwe12.github.io/blog/2025-09-09"/>
+        <updated>2025-09-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. 上課第一次摸到真的樹梅派，上一次碰arduino還是10年前的事了]]></summary>
+        <content type="html"><![CDATA[<ol>
+<li>
+<p>上課第一次摸到真的樹梅派，上一次碰arduino還是10年前的事了 <br>
+用燒錄工具的時候出現一個奇怪的錯誤，問老師沒有答案，結果上網找一下原來要系統管理員打開: <br>
+<a href="https://forums.balena.io/t/error-0-h-requestmetadata-is-not-a-function/371138/17" target="_blank" rel="noopener noreferrer">https://forums.balena.io/t/error-0-h-requestmetadata-is-not-a-function/371138/17</a><br>
+好像也可以用之前燒錄SD的另一個tool win32diskmanager<br>
+順便找了一下指令:<a href="https://korewa72.blogspot.com/2018/09/blog-post.html" target="_blank" rel="noopener noreferrer">https://korewa72.blogspot.com/2018/09/blog-post.html</a> <br></p>
+</li>
+<li>
+<p>原來燒錄時不用把下載下來的解壓縮，沒有仔細看副檔名，看到有壓縮的圖標就右鍵解壓縮下去了。<br></p>
+</li>
+<li>
+<p>因為螢幕只有一個，沒事做有點無聊，就順便紀錄一下遇到的問題。<br>
+看老師操作有一種看ECU的感覺。<br></p>
+</li>
+</ol>]]></content>
+        <author>
+            <name>Squirrel</name>
+            <uri>https://github.com/chwe12</uri>
+        </author>
+        <category label="journal" term="journal"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025-09-08 日常紀錄]]></title>
+        <id>https://chwe12.github.io/blog/2025-09-08</id>
+        <link href="https://chwe12.github.io/blog/2025-09-08"/>
+        <updated>2025-09-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. 上週稍微休息一下]]></summary>
+        <content type="html"><![CDATA[<ol>
+<li>上週稍微休息一下 <br></li>
+<li>今天試著把推送到github的流程改一下，加上deploy.yml，看看之後是不是都可以順利推送，我就不用一個一個打指令了，<br>
+再加上一個可以自動跑的bat，好像方便很多。<br></li>
+</ol>
+<br>]]></content>
+        <author>
+            <name>Squirrel</name>
+            <uri>https://github.com/chwe12</uri>
+        </author>
+        <category label="journal" term="journal"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025-08-20 日常紀錄]]></title>
+        <id>https://chwe12.github.io/blog/2025-08-20</id>
+        <link href="https://chwe12.github.io/blog/2025-08-20"/>
+        <updated>2025-08-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. 最近過著充實的生活]]></summary>
+        <content type="html"><![CDATA[<ol>
+<li>最近過著充實的生活 <br></li>
+<li>上課筆記</li>
+</ol>
+<br>
+<p>物聯網短距離通訊使用技術適用低功率射頻電機技術規範草案相關章節一覽表<br>
+<a href="https://www.ncc.gov.tw/chinese/files/16042/8_35490_160422_1_C.PDF" target="_blank" rel="noopener noreferrer">https://www.ncc.gov.tw/chinese/files/16042/8_35490_160422_1_C.PDF</a> <br></p>
+<br>
+<p>短距離：NFC、RFID<br>
+中短距離：Wifi、藍芽、beacon、ZigBee、UWB<br>
+長距離：Sigfox、LoRa、NB-IoT<br></p>
+<br>
+<p>NFC：<br></p>
+<ul>
+<li>幾乎是RFID的第二代<br></li>
+<li>頻率13.56MHz<br></li>
+<li>感應距離最小<br></li>
+<li>雙向傳輸，可交換資料<br><br></li>
+</ul>
+<p>RFID：<br></p>
+<ul>
+<li>低頻適用生物標籤<br></li>
+<li>新資料可附加在舊資料，或是完全複寫標籤資料<br></li>
+<li>UHF RFID有大範圍讀取的優點，可同時讀取許多標籤、標籤可重複使用<br></li>
+</ul>]]></content>
+        <author>
+            <name>Squirrel</name>
+            <uri>https://github.com/chwe12</uri>
+        </author>
+        <category label="journal" term="journal"/>
+        <category label="test" term="test"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>https://chwe12.github.io/blog/first-blog-post</id>
+        <link href="https://chwe12.github.io/blog/first-blog-post"/>
+        <updated>2025-08-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Try the first blog post...]]></summary>
+        <content type="html"><![CDATA[<p>Try the first blog post...</p>
+<p>修改預設介紹內容<br>
+<!-- -->成功改掉預設的svg圖案</p>]]></content>
+        <author>
+            <name>Squirrel</name>
+            <uri>https://github.com/chwe12</uri>
+        </author>
+        <category label="journal" term="journal"/>
+        <category label="test" term="test"/>
+    </entry>
+</feed>
