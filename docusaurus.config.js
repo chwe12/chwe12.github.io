@@ -2,8 +2,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'squirrel Site',
-  tagline: 'My Learning Journey',
+  title: 'Squirrel Site',
+  tagline: 'My Journey ?',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
