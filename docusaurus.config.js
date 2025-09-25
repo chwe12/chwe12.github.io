@@ -73,6 +73,10 @@ const config = {
                 label: 'Intro',
                 to: '/docs/intro',
               },
+              {
+                label: 'Link',
+                to: '/docs/link',
+              },
             ],
           },
           {
