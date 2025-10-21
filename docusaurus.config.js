@@ -2,9 +2,11 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  /* 自訂名稱和icon + */
   title: 'Squirrel Site',
   tagline: 'My Journey ?',
   favicon: 'img/favicon.ico',
+  /* 自訂名稱和icon - */
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -12,12 +14,14 @@ const config = {
   },
 
   // Set the production url of your site here
+  /* update到github上 + */
   url: 'https://chwe12.github.io',
   baseUrl: '/',
   trailingSlash: false,
   organizationName: 'chwe12',
   projectName: 'chwe12.github.io',
   deploymentBranch: 'main',
+  /* update到github上 - */
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -37,8 +41,10 @@ const config = {
          },
         blog: {
           showReadingTime: true,
-          blogSidebarTitle: 'All posts',
+          /* 控制blog側邊 recent post 的數量 + */
+          blogSidebarTitle: 'All posts', 
           blogSidebarCount: 'ALL',
+          /* 控制blog側邊 recent post 的數量 - */
         },
         theme: {
           customCss: './src/css/custom.css',
