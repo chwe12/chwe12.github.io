@@ -22,9 +22,8 @@ echo === build：npm run build ===
 npm run build
 if errorlevel 1 (
   echo ❌ build error
-  goto :end
+  pause
 )
-echo === 本機預覽：npm run serve ===
 npm run serve
 goto :end
 
