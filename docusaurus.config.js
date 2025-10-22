@@ -85,6 +85,10 @@ const config = {
                 label: 'Link',
                 to: '/docs/link',
               },
+              {
+                label: 'Link',
+                to: '/docs/My Tools',
+              },
             ],
           },
           {

@@ -1,4 +1,48 @@
 @echo off
+setlocal EnableExtensions EnableDelayedExpansion
+
+REM ===== Menu =====
+echo.
+echo [Docusaurus Workflow]
+echo   1) local test
+echo   2) Commit and Push to origin source
+echo.
+choice /c 12 /n /m "choose [1-2]: "
+set sel=%errorlevel%
+echo.
+
+if "%sel%"=="1" goto :prod_test
+if "%sel%"=="2" goto :commit_push
+
+goto :end
+
+
+:prod_test
+echo === build：npm run build ===
+npm run build
+if errorlevel 1 (
+  echo ❌ build error
+  goto :end
+)
+echo === 本機預覽：npm run serve ===
+npm run serve
+goto :end
+
+:prod_then_commit
+echo === 正式版建置：npm run build ===
+npm run build
+if errorlevel 1 (
+  echo ❌ build error
+  goto :end
+)
+echo === 本機預覽：npm run serve ===
+npm run serve
+echo.
+echo ✅ test pass
+goto :commit_push
+
+:commit_push
+@echo off
 setlocal enabledelayedexpansion
 
 REM Show changes
@@ -30,4 +74,5 @@ if errorlevel 1 (
 git push origin source
 
 :end
-pause
+endlocal
+exit /b
