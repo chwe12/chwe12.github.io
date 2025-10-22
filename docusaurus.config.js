@@ -87,7 +87,7 @@ const config = {
               },
               {
                 label: 'Link',
-                to: '/docs/My Tools',
+                to: '/docs/My_Tools',
               },
             ],
           },
