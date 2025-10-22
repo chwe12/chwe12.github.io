@@ -2,10 +2,9 @@
 sidebar_position: 2
 ---
 
-## Tool和網頁
+## 外部網頁
 
-可惜有些是不能公開的東西
-- MB GB 換算：https://mbgb-ieffenbachia-squirrel-64fb.netlify.app/
+可惜有些是不能公開的東西，有些靜態網頁放在My_Tools裡
 - 網頁股票小插件：https://github.com/chwe12/Taiwan-Stock-Watchlist
 
 

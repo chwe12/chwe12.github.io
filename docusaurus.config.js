@@ -87,7 +87,7 @@ const config = {
               },
               {
                 label: 'My_Tools',
-                to: '/docs/My_Tools',
+                to: '/docs/My_Tools/ToolsList',
               },
             ],
           },
