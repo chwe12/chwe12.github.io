@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>磁碟分割</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        .container {
+            width: 300px;
+            margin: auto;
+        }
+        input, select, button {
+            margin: 10px 0;
+            padding: 8px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2> MB GB 換算</h2>
+        <label for="inputValue">請輸入數值:</label>
+        <input type="number" id="inputValue" placeholder="輸入數字" required>
+
+        <label for="unit">請選擇單位(MB or GB?):</label>
+        <select id="unit">
+            <option value="GB">GB</option>
+            <option value="MB">MB</option>
+        </select>
+
+        <button onclick="convert()">換算</button>
+
+        <p id="result"></p>
+    </div>
+
+    <script>
+        function convert() {
+            const inputValue = parseFloat(document.getElementById('inputValue').value);
+            const unit = document.getElementById('unit').value;
+            const result = document.getElementById('result');
+
+            if (isNaN(inputValue)) {
+                result.textContent = "請輸入有效的數字";
+                return;
+            }
+
+            if (unit === "GB") {
+                const mbValue = inputValue * 1024;
+                result.textContent = `${inputValue} GB 等於 ${mbValue} MB`;
+            } else if (unit === "MB") {
+                const gbValue = inputValue / 1024;
+                result.textContent = `${inputValue} MB 等於 ${gbValue.toFixed(2)} GB`;
+            }
+        }
+    </script>
+</body>
+</html>
