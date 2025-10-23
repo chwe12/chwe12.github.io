@@ -1,10 +1,10 @@
 ---
 sidebar_position: 1
-title: Game List
+title: List
 ---
 
 ## 遊戲專欄
 
-遊戲列表：
+Game List：
 1. Core Keeper
 2. 大武道
