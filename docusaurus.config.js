@@ -53,6 +53,22 @@ const config = {
     ],
   ],
 
+  plugins: [
+  [
+    '@docusaurus/plugin-content-docs',
+    {
+      id: 'game-docs', 
+      path: 'game',
+      routeBasePath: 'game',
+      sidebarPath: './sidebars.js',
+      editUrl: 'https://github.com/chwe12/chwe12.github.io/edit/source/',
+      showLastUpdateTime: true,
+      showLastUpdateAuthor: true,
+    },
+  ],
+  ],
+
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -68,6 +84,7 @@ const config = {
             label: 'DoC',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/game', label: 'Game', position: 'left'},
         ],
       },
 
@@ -97,6 +114,10 @@ const config = {
               {
                 label: 'Blog',
                 to: '/blog',
+              },
+              {
+                label: 'Game',
+                to: '/game',
               },
             ],
           },          
