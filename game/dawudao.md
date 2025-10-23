@@ -4,7 +4,7 @@ title: Dawudao
 ---
 
 # 大武道
-![DWD](/img/game/DWD0.png)
+![DWD](/img/game/DWD0.png)<br />
 
 ## 技能搭配
 
