@@ -10,5 +10,4 @@ sidebar_position: 2
 
 ## 遊戲紀錄
 
-- 我的遊戲紀錄專區：https://squirrel-a1a.notion.site/293a9191eb0680759c93ebfa389ec056
 - Core Keeper (~2025)：https://www.youtube.com/@nwa4137/featured
