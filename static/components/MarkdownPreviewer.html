@@ -14,12 +14,12 @@
       const preview = document.getElementById('preview');
 
       const DEFAULT_MD = `# Markdown 即時預覽
-        - **粗體**、*斜體*、\`code\`
-        \`\`\`js
-        console.log('Hello Markdown');
-        \`\`\`
-        `;
-        
+ - **粗體**、*斜體*、\`code\`
+ \`\`\`js
+ console.log('Hello Markdown');
+ \`\`\`
+ `;
+ 
       editor.value = localStorage.getItem('md_preview_draft') ?? DEFAULT_MD;
 
       function render() {
