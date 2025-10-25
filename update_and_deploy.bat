@@ -51,7 +51,7 @@ goto menu
 echo === npm run build ===
 call npm run build
 if errorlevel 1 (
-  echo ❌ build error
+  echo build error
   pause
   goto menu
 )
