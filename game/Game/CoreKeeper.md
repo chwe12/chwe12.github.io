@@ -4,6 +4,8 @@ title: Core Keeper
 ---
 
 # Core Keeper
+最後修改時間：2025/10/26<br />
+
 ![CK](/img/game/CK0.png)<br />
 
 ## 開局
