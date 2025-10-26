@@ -19,11 +19,12 @@ const FeatureList = [
     Svg: require('@site/static/img/squirrel2.svg').default,
     description: (
       <>
-        BIOS/Firmware development Project Management
-        <br />
         Software and System Technology
         <br />
         System architecture
+        <br />
+        BIOS/Firmware development Project Management
+        <br />
       </>
     ),
   },
