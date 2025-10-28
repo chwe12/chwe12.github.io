@@ -6,7 +6,18 @@ sidebar_position: 1
 
 一邊上班一邊薪偷研究有興趣的各種知識的工程師
 
-<iframe
-  src="/about/InteractiveCard.html"
-  style={{ width: '120%', height: '90vh', border: '1px solid var(--ifm-color-emphasis-300)', borderRadius: '8px' }}
-  loading="lazy" />
+### 興趣
+
+- 玩電腦、手機遊戲
+- 正在熟悉樹莓派和Arduino
+- 看動畫和閱讀各種類型的書
+- 因為建置網頁看起來很有趣，所以正在嘗試
+- 天文迷
+- 不定期參與新領域課程與認證
+- 希望有一天能看極光
+
+### 網站介紹
+
+- Doc: 介紹、自製tool連結、玩遊戲影片連結
+- Blog: 學習各種事物的除錯紀錄，比較雜亂一點，如果累積足夠大量的例子後會再整理起來
+- Game: 玩的遊戲的攻略和整理
