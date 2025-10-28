@@ -6,13 +6,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
     :root {
-      --bg: #0d1015;
-      --fg: #e6e9ef;
-      --muted:#7e8797;
-      --tile:#12151a;
-      --tile-hover:#171b23;
-      --accent:#5ea0ff;
+      --bg: #d2e2f3; /* 整體底色 */
+      --fg: #1c1f23; /* 文字 */
+      --muted:#60656c; /* 次要文字 */
+      --tile:#a1c9f1; /* 卡片底色 */
+      --tile-hover:#e6ebf1; /* 滑過卡片變更明顯 */
+      --accent:#3a8dff; /* 點點亮色 */
     }
+
     *{box-sizing:border-box}
     body {
       margin: 0; background: var(--bg); color: var(--fg);
@@ -37,7 +38,7 @@
     .tile {
       height:110px; border-radius:10px;
       background:var(--tile);
-      border:1px solid rgba(255,255,255,.06);
+      border:1px solid rgba(84, 65, 252, 0.06);
       display:flex; align-items:center; justify-content:center;
       position:relative; cursor:default;
       transition: background .18s, transform .18s, border-color .18s;
@@ -77,8 +78,8 @@
 <body>
   <div class="layout">
     <div class="title-area">
-      <h1>關於我</h1>
-      <p>一邊上班一邊薪偷研究有興趣的各種知識的工程師</p>
+      <h1> </h1>
+      <p> </p>
       <div class="grid" id="grid"></div>
     </div>
 
@@ -96,11 +97,11 @@
       "正在熟悉樹莓派和Arduino",
       "挑食",
       "興趣：看動畫和閱讀各種類型的書",
-      "",
-      " ",
+      "希望有一天能朝聖半夜的暗空公園",
+      "因為建置網頁看起來很有趣所以試試看",
       "天文迷",
       "不定期參與新領域課程與認證",
-      "興趣：",
+      "希望有一天能看極光",
     ];
 
     const grid = document.getElementById('grid');
