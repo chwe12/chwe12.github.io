@@ -1,10 +1,10 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 title: Core Keeper
 ---
 
 # Core Keeper
-最後修改時間：2025/10/26<br />
+*最後更新時間：2025/10/26*<br />
 
 ![CK](/img/game/CK0.png)<br />
 
