@@ -13,7 +13,7 @@ echo 4. Local test (Production Build and Production Preview)
 echo 5. Commit and push to formal release
 echo 6. Exit
 echo ==================================
-set /p choice=Choose an option (1-5): 
+set /p choice=Choose an option (1-6): 
 
 if "%choice%"=="1" goto resetOnly
 if "%choice%"=="2" goto resetAndPull
