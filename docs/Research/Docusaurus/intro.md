@@ -65,7 +65,7 @@ my-website/
 npm run start
 ```
 
-執行後會開啟本機伺服器（通常是 http://localhost:3000），並具備 Hot Reload 功能。<br />
+執行後會開啟本機伺服器（通常是 ```bash http://localhost:3000 ```），並具備 Hot Reload 功能。<br />
 
 - 任何放在 docs/、blog/、src/pages/ 的 Markdown 或 MDX 改動都會即時重新載入
 - 適合日常撰寫與調整內容
@@ -92,7 +92,7 @@ npm run build
 
 啟動一個本地伺服器，直接展示 npm run build 產生的 /build 靜態檔案，就是上線前檢查用的模式<br />
 
-- 預設網址為 http://localhost:3000  或 http://localhost:5000 
+- 預設網址為 ```bash http://localhost:3000  ``` 或 ```bash http://localhost:5000 ```
 - 顯示結果與上線後完全相同
 - 改檔案後需重新執行 npm run build 才會更新
 - 適合上線前確認排版、連結與靜態資源是否正確
