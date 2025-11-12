@@ -1,10 +1,10 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 title: Dawudao
 ---
 
 # 大武道
-最後修改時間：2025/11/04<br />
+*最後更新時間：2025/11/04*<br />
 
 ![DWD](/img/game/DWD0.png)<br />
 

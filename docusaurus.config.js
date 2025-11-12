@@ -104,7 +104,11 @@ const config = {
               },
               {
                 label: 'My_Tools',
-                to: '/docs/My_Tools/ToolsList',
+                to: '/docs/My_Tools/UnitConverter',
+              },
+              {
+                label: 'Research',
+                to: '/docs/Research/intro',
               },
             ],
           },
