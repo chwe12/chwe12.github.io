@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: List
+title: Game List
 ---
 
 ## 遊戲專欄
