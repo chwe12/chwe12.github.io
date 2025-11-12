@@ -25,6 +25,26 @@ pause
 goto menu
 
 :resetOnly
+cls
+echo ==============================================================
+echo.
+echo  WARNING! 
+echo.
+echo  YOU ARE ABOUT TO **RESET** YOUR LOCAL REPOSITORY
+echo.
+echo  This action will **DELETE ALL LOCAL CHANGES** and cannot be undone!
+echo.
+echo ==============================================================
+echo.
+set "confirm="
+set /p confirm=Are you sure you want to RESET to the latest version? (Y/N): 
+if /I not "%confirm%"=="y" (
+  echo.
+  echo Cancelled. No changes were made.
+  pause
+  goto menu
+)
+
 echo.
 echo  This will REMOVE all local changes and untracked files!
 pause
@@ -36,6 +56,26 @@ pause
 goto menu
 
 :resetAndPull
+cls
+echo ==============================================================
+echo.
+echo  WARNING! 
+echo.
+echo  YOU ARE ABOUT TO **RESET** YOUR LOCAL REPOSITORY
+echo  AND SYNC TO THE LATEST VERSION FROM GITHUB (origin/source).
+echo.
+echo  This action will **DELETE ALL LOCAL CHANGES** and cannot be undone!
+echo.
+echo ==============================================================
+echo.
+set "confirm="
+set /p confirm=Are you sure you want to RESET to the latest version? (Y/N): 
+if /I not "%confirm%"=="y" (
+  echo.
+  echo Cancelled. No changes were made.
+  pause
+  goto menu
+)
 echo.
 echo  This will REMOVE all local changes and untracked files, then pull latest from origin/source!
 pause
