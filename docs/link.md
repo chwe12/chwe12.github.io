@@ -11,6 +11,11 @@ Tool List
 2. MarkdownPreviewer: markdown即時預覽 (最後更新: 2025/10/25)
 3. Fabric: 圖片標註、白板 (最後更新: 2025/10/27)
 
+## Research
+
+Research List
+1. Docusaurus (最後更新: 2025/11/12)
+
 ## 外部網頁
 
 有些是不能公開的東西，靜態網頁放在My_Tools裡
