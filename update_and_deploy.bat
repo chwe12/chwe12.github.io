@@ -8,17 +8,19 @@ echo Git Local Reset & Update Tool
 echo ==================================
 echo 1. Reset and clean only   (discard local changes)
 echo 2. Reset, clean, and pull latest from origin/source
-echo 3. Local test
-echo 4. Commit and push to formal release
-echo 5. Exit
+echo 3. devTest
+echo 4. Local test (Production Build and Production Preview)
+echo 5. Commit and push to formal release
+echo 6. Exit
 echo ==================================
 set /p choice=Choose an option (1-5): 
 
 if "%choice%"=="1" goto resetOnly
 if "%choice%"=="2" goto resetAndPull
-if "%choice%"=="3" goto prodTest
-if "%choice%"=="4" goto commitPush
-if "%choice%"=="5" goto end
+if "%choice%"=="3" goto devTest
+if "%choice%"=="4" goto prodTest
+if "%choice%"=="5" goto commitPush
+if "%choice%"=="6" goto end
 
 echo Invalid choice. Please try again.
 pause
@@ -97,6 +99,12 @@ if errorlevel 1 (
 )
 echo === npm run serve ===
 call npm run serve
+goto menu
+
+
+:devTest
+echo === Development Server ===
+call npm run start
 goto menu
 
 
