@@ -61,10 +61,6 @@ my-website/
 
 ### 開發模式（Development Mode）
 
-```bash
-npm run start
-```
-
 執行後會開啟本機伺服器（通常是 ``` http://localhost:3000 ```），並具備 Hot Reload 功能。<br />
 
 - 任何放在 docs/、blog/、src/pages/ 的 Markdown 或 MDX 改動都會即時重新載入
@@ -74,10 +70,6 @@ npm run start
 
 ### 正式建置模式（Production Build）
 
-```bash
-npm run build
-```
-
 用於生成最終上線版本，會將整個網站編譯成靜態 HTML、CSS、JS，輸出到 build/ 資料夾，這就是部署到 GitHub Pages 或伺服器的最終檔案。<br />
 
 - 每一頁都轉換成靜態檔案
@@ -85,10 +77,6 @@ npm run build
 - 若要查看結果，需搭配下一步的 serve 指令
 
 ### 正式版預覽模式（Production Preview）
-
-```bash
-npm run build
-```
 
 啟動一個本地伺服器，直接展示 npm run build 產生的 /build 靜態檔案，就是上線前檢查用的模式<br />
 
