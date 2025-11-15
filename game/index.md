@@ -8,6 +8,7 @@ title: Game List
 Game List：
 1. Core Keeper
 2. 大武道
+3. 開天
 
 ## 遊戲紀錄
 
