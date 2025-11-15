@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/universe.svg').default,
     description: (
       <>
-        Engineer with experience in firmware development, familiar with notebook and server systems.
+        Engineer with experience in firmware development, familiar with laptop and server systems.
         <br />
         Specializing in problem-solving, debugging, and issue management.
       </>

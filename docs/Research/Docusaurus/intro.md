@@ -85,7 +85,8 @@ my-website/
 - 改檔案後需重新執行 npm run build 才會更新
 - 適合上線前確認排版、連結與靜態資源是否正確
 
-### Trouble shooting
+## Trouble shooting & Notes
 
 1. 遇到 sidebar 每個文章的位置排列方式問題，原本想要從 sidebars.js 裡面去調整成客製化的排列方式，後來發現用資料夾分類時，資料夾裡面的順序似乎可以從1開始排列，就不用分資料夾內外的順序了
 2. 要加新的資料夾到首頁顯示時，寫到 docusaurus.config.js
+3. 需要修改首頁文字到 src\components\HomepageFeatures\index.js
