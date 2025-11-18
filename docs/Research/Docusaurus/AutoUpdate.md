@@ -4,11 +4,18 @@ title: Auto Update, Reset tool
 ---
 
 # Git Local Reset & Update Tool 批次檔介紹
-*最後更新時間：2025/11/12*<br />
+*最後更新時間：2025/11/18*<br />
 
 update_and_deploy.bat 是在 Windows 上執行的自動化工具，用來簡化開發過程中的版本控制與測試流程。  <br />
 將多項 Git 與 Docusaurus 操作整合，用選項的方式執行 reset、pull、local build test、commit、push 等動作。<br />
-
+<br />
+需先授權自己的信箱登入使用：<br />
+1. 確認電腦已安裝 git和 node.js
+2. set GIT_USER=(自己的帳號)
+3. npm run build
+4. npm run deploy
+5. 此時應該會出現需要登入的帳號密碼
+<br />
 ---
 
 ## 功能選單說明
