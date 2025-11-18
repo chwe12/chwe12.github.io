@@ -4,4 +4,4 @@ title: Research List
 ---
 
 Research List
-1. Docusaurus (最後更新: 2025/11/12)
+1. Docusaurus (最後更新: 2025/11/18)
