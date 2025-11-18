@@ -7,14 +7,14 @@ sidebar_position: 2
 用AI輔助做一些平常容易用到的工具<br />
 
 Tool List
-1. UnitConverter: 磁碟分割換算小工具 (最後更新: 2024/11)
-2. MarkdownPreviewer: markdown即時預覽 (最後更新: 2025/10/25)
-3. Fabric: 圖片標註、白板 (最後更新: 2025/10/27)
+1. UnitConverter: 磁碟分割換算小工具
+2. MarkdownPreviewer: markdown即時預覽
+3. Fabric: 圖片標註、白板
 
 ## Research
 
 Research List
-1. Docusaurus (最後更新: 2025/11/12)
+1. Docusaurus
 
 ## 外部網頁
 
