@@ -7,7 +7,6 @@ title: Auto Update, Reset tool
 *最後更新時間：2025/11/26*<br />
 
 update_and_deploy.bat 是在 Windows 上執行的自動化工具，將操作整合用選項的方式執行 reset、pull、local build test、commit、push。<br />
-<br />
 需先授權自己的帳號登入使用：<br />
 1. 確認電腦已安裝 git和 node.js
 2. set GIT_USER=(自己的帳號)
