@@ -108,7 +108,7 @@ const config = {
               },
               {
                 label: 'Research',
-                to: '/docs/Research/intro',
+                to: '/docs/Research/Docusaurus/intro',
               },
             ],
           },
