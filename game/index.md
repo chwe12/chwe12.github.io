@@ -7,7 +7,7 @@ title: Game List
 
 Game List：
 1. Core Keeper
-2. 大武道
+2. 大武道 (2025/08 ~ 2025/12)
 
 ## 遊戲紀錄
 
