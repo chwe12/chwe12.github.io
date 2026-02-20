@@ -5,6 +5,7 @@ title: Dawudao
 
 # 大武道
 *最後更新時間：2025/11/26*<br />
+(不玩了)<br />
 
 ![DWD](/img/game/DWD0.png)<br />
 
