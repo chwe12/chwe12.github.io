@@ -11,4 +11,4 @@ Game List：
 
 ## 遊戲紀錄
 
-- Core Keeper (~2025)：https://www.youtube.com/@nwa4137/featured
+- Core Keeper (~2026)：https://www.youtube.com/@nwa4137/featured
