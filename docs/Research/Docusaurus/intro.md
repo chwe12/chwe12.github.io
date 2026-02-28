@@ -90,4 +90,5 @@ my-website/
 1. 遇到 sidebar 每個文章的位置排列方式問題，原本想要從 sidebars.js 裡面去調整成客製化的排列方式，後來發現用資料夾分類時，資料夾裡面的順序似乎可以從1開始排列，就不用分資料夾內外的順序了
 2. 要加新的資料夾到首頁顯示時，寫到 docusaurus.config.js
 3. 需要修改首頁文字到 src\components\HomepageFeatures\index.js
-4. 更新版本只要按build的時候出現的提示更新即可，更新發布時 git 出現 node.js 版本太舊，更新完後找到 deploy.yml (.github\workflows)，把 with: { node-version: xx } 內改成更新後的版本及正常發布
+4. 更新版本只要按build的時候出現的提示更新即可，更新發布時 git 出現 node.js 版本太舊，更新完後找到 deploy.yml (.github\workflows)，把 node-version: xx 改成更新後的版本及正常發布
+5. 另外.md不能隨意使用大括號...
