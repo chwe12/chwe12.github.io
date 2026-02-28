@@ -48,8 +48,8 @@ title: Core Keeper
 ### Standard mode 遇到的困難點
 
 1. 開局到森林、沙漠、海洋區是沒有太大的困難。直到我想要刷外星人擂台，真的是花很久的時間再繞地圖，後來在海洋和水晶生態系之間找到了。
-2. 也還好我拿到Obliteration Ray (升級成Stormbringer物品的其中之一)的速度算快，不然我可能要花更多時間在水晶生態系。
-
+2. 也還好我拿到Obliteration Ray (升級成Stormbringer物品的其中之一)的速度算快，不然我可能要花更多時間在水晶生態系。 
+ 
 
 ### Hard mode 遇到的困難點
 
