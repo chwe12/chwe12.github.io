@@ -4,12 +4,12 @@ title: Docusaurus learning note
 ---
 
 # Docusaurus learning note
-*最後更新時間：2025/11/12*<br />
+*最後更新時間：2026/02/28*<br />
 
 這一區紀錄了我研究 Docusaurus 的歷程，希望能幫助未來的自己快速回顧整個架構。<br />
 
 尚未克服的難題：
-- 更新原本docusaurus架構至最新版本
+- 更新原本docusaurus架構至最新版本：似乎可以按照跳出的提示更新即可 (Trouble shooting & Notes: 4) ，之後再觀察看看
 
 ## 整理資訊
 
@@ -90,3 +90,4 @@ my-website/
 1. 遇到 sidebar 每個文章的位置排列方式問題，原本想要從 sidebars.js 裡面去調整成客製化的排列方式，後來發現用資料夾分類時，資料夾裡面的順序似乎可以從1開始排列，就不用分資料夾內外的順序了
 2. 要加新的資料夾到首頁顯示時，寫到 docusaurus.config.js
 3. 需要修改首頁文字到 src\components\HomepageFeatures\index.js
+4. 更新版本只要按build的時候出現的提示更新即可，更新發布時 git 出現 node.js 版本太舊，更新完後找到 deploy.yml (.github\workflows)，把 with: { node-version: xx } 內改成更新後的版本及正常發布
