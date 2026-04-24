@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Squirrel Site Blog</title>
+        <link>https://chwe12.github.io/blog</link>
+        <description>Squirrel Site Blog</description>
+        <lastBuildDate>Fri, 24 Apr 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[2026-04-24]]></title>
+            <link>https://chwe12.github.io/blog/2026-04-24</link>
+            <guid>https://chwe12.github.io/blog/2026-04-24</guid>
+            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[- 做了一個遊戲的計算器，不過沒辦法和遊戲連動有點可惜]]></description>
+            <content:encoded><![CDATA[<ul>
+<li class="">做了一個遊戲的計算器，不過沒辦法和遊戲連動有點可惜</li>
+<li class="">遊戲的計算器想辦法放到第三方的託管網頁，而且找到可以用帳號登入的方式把自己的紀錄跨平台查看</li>
+<li class="">突然開啟了金工課程學習之路，雖然是入門的課程，但上週學第一堂課後已經大概知道後面的課大概會做甚麼了...只差需要看有沒有其他小訣竅</li>
+</ul>]]></content:encoded>
+            <category>journal</category>
+        </item>
+        <item>
+            <title><![CDATA[2026-03-15]]></title>
+            <link>https://chwe12.github.io/blog/2026-03-15</link>
+            <guid>https://chwe12.github.io/blog/2026-03-15</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[這兩天可以說是大量增加不同的知識，周六的礦石展和周日的機械表拆裝學習。]]></description>
+            <content:encoded><![CDATA[<p>這兩天可以說是大量增加不同的知識，周六的礦石展和周日的機械表拆裝學習。<br>
+這兩個活動都是從廣告看到的，而且兩個體驗都很不錯。<br><br>
+先從週六說起，之前對彼得石很有興趣，然後最近對丹泉石也有興趣，想買但是怕自己不懂又沒看過實物，買到的東西會品質不好。剛好看到廣告，想著說不定有機會可以見到實物，猶豫到最後一天才報名。<br>
+我本來以為礦石展大概場地不是很大，大部分都是比較專業的客人，可能是有點難以融入的圈子。結果實際上場地很大，攤主們都很友善，部分客人的確很專業，所以偶爾可以站在旁邊偷聽攤主或是客人的講解。<br>
+除了看到很多寶石以外，也真的見識到貴的寶石和便宜的寶石的差別，包括顏色、晶體內的雜質、形狀...等等都會影響價格。<br>
+找到一攤是賣英國的日光螢石，剛好攤主有自備光源，也歡迎客人動手在英國的日光螢石上照紫外線，所以我就實際上觀看，雖然外表顏色是綠色、灰色，但是在紫外線下變成藍色真的很神奇。<br>
+中場還有瑞士的專家報告，關於瑞士的寶石、如何探勘、寶石的分布位置和開採的位置等等，非常有趣。學了很多知識，包括瑞士和台灣很像，不斷的有造山運動且還在進行。<br>
+開採水晶的位置會在阿爾卑斯山的裂隙，因為地質特殊會有岩石的拉身運動，可能裂隙會被拉開(通常在山壁上的水平裂隙中)，其中就會長出水晶，開採水晶的活動在瑞士已經持續了400年之久，因此比較容易見到水晶的地方已經被開採得差不多了。現在如果要開採，可能花個1個月都有可能，也可能甚麼都找不到。<br>
+為什麼瑞士的水晶會特別，是因為他有馬賽克似的結構，晶體不是非常漂亮的分布，但也因如此，所以轉動水晶石可以反射來自不同地方的光線，會很漂亮。瑞士常見的有白水晶、煙晶(smoke)、墨晶(很深的煙晶)、扭旋水晶，扭旋水晶基本上100顆水晶才會出現一顆，所以非常稀少。另外扭旋水晶結構就是一層水晶長好以後，因為地形變動或是環境惡劣的關係導致他長的時候又扭曲了，形狀類似陶朱隱園。<br>
+其他就不多贅述，看到很多不同種類的水晶，長見識。<br></p>
+<br>
+<p>周日的手錶體驗，也是收穫良多。<br>
+一開始講師要大家對一個問題回答，本來有點緊張，結果發現可能是公司的關係剛好有訓練到，所以我居然可以在大家面前回答完。雖然不知道外表看起來是不是很緊張，但至少我說完了，有進步可喜可賀。<br>
+今天學習機械表的動力傳遞和擒縱系統。擒縱系統的擺輪和游絲真的很難安裝，講師也說這是最困難的部分，在這邊我卡了很久，真的很需要耐心才可以把擺輪的其中一個點位卡進擒縱叉的點上。動力傳遞的結構拆裝就容易許多，很快就可以裝好。<br>
+學習很多關於機械表的知識，希望有空我會好好整理課程內容到筆記裡。<br>
+此網站感覺可以參考：<a href="https://www.reddit.com/r/watchmaking/comments/1bt3hpw/escapement_wheel_geometry/?tl=zh-hant" target="_blank" rel="noopener noreferrer" class="">https://www.reddit.com/r/watchmaking/comments/1bt3hpw/escapement_wheel_geometry/?tl=zh-hant</a></p>]]></content:encoded>
+            <category>journal</category>
+        </item>
+        <item>
+            <title><![CDATA[2026-03-10]]></title>
+            <link>https://chwe12.github.io/blog/2026-03-10</link>
+            <guid>https://chwe12.github.io/blog/2026-03-10</guid>
+            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[突然想弄個松鼠文字遊戲，用AI慢慢搞一個看看]]></description>
+            <content:encoded><![CDATA[<p>突然想弄個松鼠文字遊戲，用AI慢慢搞一個看看<br>
+列印文件和文件名稱：tree /F<br>
+勉強可以玩了...未來再加點功能<br>
+可能需要增加怪物和地圖...因為只做了兩個地圖，怪物也不多，一下就沒了<br>
+還需要加點隨機事件和世界變化<br></p>
+<p><a href="https://squirrel-sandbox-kelpie620ae5.netlify.app/" target="_blank" rel="noopener noreferrer" class="">https://squirrel-sandbox-kelpie620ae5.netlify.app/</a></p>]]></content:encoded>
+            <category>journal</category>
+        </item>
+        <item>
+            <title><![CDATA[2026-01-08]]></title>
+            <link>https://chwe12.github.io/blog/2026-01-08</link>
+            <guid>https://chwe12.github.io/blog/2026-01-08</guid>
+            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[大概做個燕雲的詞條紀錄：]]></description>
+            <content:encoded><![CDATA[<p>大概做個燕雲的詞條紀錄：<br>
+鳴金吃會意，武器是飛隼就得堆高會意，飛隼是會意觸發才有效果。<br>
+命中高會心會意都可能觸發，命中不高只有會意。<br>
+武器時雨套加會心傷害，武器玉斗加會意傷害。<br></p>]]></content:encoded>
+            <category>journal</category>
+        </item>
+        <item>
+            <title><![CDATA[2026-01-03]]></title>
+            <link>https://chwe12.github.io/blog/2026-01-03</link>
+            <guid>https://chwe12.github.io/blog/2026-01-03</guid>
+            <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[很快的到了2026年，回顧起2025大概就是開始接觸AI的一年吧，沒有玩的很多，但是也多多少少有點進步，有進步就是好事。]]></description>
+            <content:encoded><![CDATA[<p>很快的到了2026年，回顧起2025大概就是開始接觸AI的一年吧，沒有玩的很多，但是也多多少少有點進步，有進步就是好事。<br>
+然後也沉迷於燕雲十六聲...<br></p>
+<br>
+<p>剛好把我找到的積矩九劍來源"周髀算經"紀錄一下，不知道是不是正確的但也無所謂，參考的網址：<br>
+<a href="https://ctext.org/zhou-bi-suan-jing/juan-shang/zh#n59429" target="_blank" rel="noopener noreferrer" class="">https://ctext.org/zhou-bi-suan-jing/juan-shang/zh#n59429</a> <br>
+<a href="https://ctext.org/zhou-bi-suan-jing/juan-xia/zh" target="_blank" rel="noopener noreferrer" class="">https://ctext.org/zhou-bi-suan-jing/juan-xia/zh</a></p>
+<ul>
+<li class="">夏至日道，在于内衡：卷上20，故日夏至在東井極內衡，日冬至在牽牛極外衡也</li>
+<li class="">冬至日道，在于外衡：卷上20，故日夏至在東井極內衡，日冬至在牽牛極外衡也</li>
+<li class="">春分秋分，日在中衡：卷下6，春分、秋分，日在中衡</li>
+<li class="">此為，方圓之法：卷上15，此方圓之法</li>
+<li class="">毀方，而爲圓；破圓，而爲方：卷上16，或毀方而為圓，或破圓而為方</li>
+<li class="">四極，之道：卷下1，凡日月運行，四極之道</li>
+<li class="">天象，蓋笠；地法，覆槃：卷下2，天象蓋笠，地法覆槃</li>
+<li class="">卷上21：內一衡徑二十三萬八千里</li>
+<li class="">卷上22：次二衡徑二十七萬七千六百六十六里二百步</li>
+<li class="">卷上23：次三衡徑三十一萬七千三百三十三里一百步</li>
+</ul>]]></content:encoded>
+            <category>journal</category>
+        </item>
+        <item>
+            <title><![CDATA[2025-12-23]]></title>
+            <link>https://chwe12.github.io/blog/2025-12-23</link>
+            <guid>https://chwe12.github.io/blog/2025-12-23</guid>
+            <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[昨天看了一部影片是關於符合甚麼條件可以裸辭，剛好最近正在思考離職的問題，覺得人生中總是要體驗別的事，存到一定的錢去體驗其他沒有試過的，上課也好旅遊也好。]]></description>
+            <content:encoded><![CDATA[<p>昨天看了一部影片是關於符合甚麼條件可以裸辭，剛好最近正在思考離職的問題，覺得人生中總是要體驗別的事，存到一定的錢去體驗其他沒有試過的，上課也好旅遊也好。<br>
+影片中其中一個重點是想要離職的原因，主要考慮的應該是個人目標，不是因為公司環境。這點和我看到一半的書設計人生很像，書中有說到如果是「重力問題」就不要抵抗，重力問題指的就是無法改變的環境因素。<br>
+當然講師提到如果是不適應公司文化就早點離開，因為公司文化是無法改變的。如果是因為人的問題想離職，很有可能換到下一個公司也會遇到，可以試試看用別的方式避開，例如取代那個人的專業技能。<br></p>
+<br>
+<p>另一個重點是如何看待下一份工作，舉例可以想想在下一個公司學到甚麼，舉三個項目，如果在那個公司都學到就可以往下個工作發展。其中有說到人應該把自己看做一間獨立公司，去工作其實就是和某間公司是B2B的合作關係，同時不要把那間公司想成是自己的歸宿，工作不是永久的。<br>
+這和我之前看的其他本書說要把自己的人生當作專案管理有點類似的概念，不過先不贅述這部分。<br>
+還有規劃下一份工作除了舉三點想學習的項目以外，也要認知要學習的是不是自己的方向，可以先思考未來的自己，可能5~10年後想要成為怎樣的人? 需要學習怎樣的技能? 然後反推應該要學甚麼。我覺得這部分難的地方應該是了解自己。<br>
+針對這部分講師有說明可以寫工作日誌，將開心和不開心的事情記錄下來，這和設計人生的書也是相同的理論，有點好奇影片中的講師是不是有參考這本書。<br></p>
+<br>
+<p>最後，錢是不是主要考量的原因? 講師認為薪水就算不高，也不會造成人立即離職的原因，原因是當初錄取就有談到薪水，所以算是已知的問題，大部分可能是因為主管或是同事的一些事情造成員工立即離職。如果錢在充足的狀況下想要裸辭，也已經實踐上方的概念的話，是可以裸辭的。<br></p>
+<br>
+<p>其他主管方面的管理思維就沒有特別記下來了，因為我知道我自己非常不擅長，也沒有打算要往管理職發展。不過有一點影片中說得很好，就是主管是要帶領人去對的地方，不是要和同事打成一片成為好朋友。<br></p>
+<br>
+<p>這篇文章也是用一頁紙的方式整理出來的...真的是很好用的思考和學習方式。<br></p>]]></content:encoded>
+            <category>journal</category>
+        </item>
+        <item>
+            <title><![CDATA[2025-12-15]]></title>
+            <link>https://chwe12.github.io/blog/2025-12-15</link>
+            <guid>https://chwe12.github.io/blog/2025-12-15</guid>
+            <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[弄了一個靜態網頁，可以把工作的清單寫下來，完全儲存於本地端，先試試看符不符合我自己的習慣。]]></description>
+            <content:encoded><![CDATA[<p>弄了一個靜態網頁，可以把工作的清單寫下來，完全儲存於本地端，先試試看符不符合我自己的習慣。<br>
+有時候總覺得沒有完美的筆記軟體很可惜...每個軟體都各有各的優缺點，但沒有一款讓我覺得方便使用的...<br>
+其實outlook也算是非常好的軟體了，不過就是檔案大，然後有點雜，工作也不想要看到工作行事曆和工作代辦清單混再一起，to do list雖然好用但是總覺得哪裡不太對勁...<br>
+先試試看自己寫的，不行再回到to do list吧...<br></p>
+<p>2025-12-23 更新<br>
+再用chatgpt把他的功能完善一點，可以編輯和用月曆顯示，顏色的部分還不太滿意，不過不急<br></p>]]></content:encoded>
+            <category>journal</category>
+        </item>
+        <item>
+            <title><![CDATA[2025-12-04]]></title>
+            <link>https://chwe12.github.io/blog/2025-12-04</link>
+            <guid>https://chwe12.github.io/blog/2025-12-04</guid>
+            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[最近看一本書是關於一頁紙筆記術，想想現在的筆記方式真的很多種，像是康乃爾、麥肯錫、子彈筆記，每個方式的目的和應用也不太相同。]]></description>
+            <content:encoded><![CDATA[<p>最近看一本書是關於一頁紙筆記術，想想現在的筆記方式真的很多種，像是康乃爾、麥肯錫、子彈筆記，每個方式的目的和應用也不太相同。<br></p>
+<br>
+<p>看完之後也在想要怎麼把這麼多筆記方法挑幾個適合我的使用，融會貫通到所有方面。目前想到的大概是平日或外出時使用一頁紙、清單、子彈筆記，可以用手機備忘錄寫，筆記本或是notion來記錄內容，總之可以先寫下來就好。等到周末或有空整理的時候再整理ˊ成永久筆記，可以用anytype做。<br></p>
+<br>
+<p>挑選的過程是想每個筆記的應用和整理方式都不同，例如：康乃爾有三個區域，包括筆記欄note、關鍵字欄keyword、總結欄summary；麥肯錫筆記方式也大概可以分類成三個區域，包括現狀what、解釋和原因why、對策和行動how；卡片盒筆記法則是每則筆記最小化，包括靈感Fleet Note、文獻Literature Note、永久Permanent Note。<br></p>
+<br>
+<p>在工作中可能可以使用康乃爾和麥肯錫，不過其實我覺得一頁紙的方式就可以了，一頁紙筆記方式包括what、why、how，也包含keyword和summary，相比之下容易操作和思考，所以在工作方面我選擇使用一頁紙的方式。<br></p>
+<br>
+<p>為了筆記可以最小化變成結構和可擴展性，又要可以儲存、便利性和雲端使用，我選擇用卡片盒筆記法，並整理到anytype上，obsidian其實也可以，兩個筆記軟體都可以用關聯圖，不過因為我已經在用anytype了，沿用比較習慣。不選用notion是因為除了沒有關聯圖以外，有時候連線跑得很慢，而且常常要更新...。如何實踐的話就只能慢慢習慣了，工作和思考中要盡量使用，而且要記得特別抽空整理筆記。這兩個我都還沒有養成習慣，要慢慢養成。<br></p>
+<br>
+<p>最後，這篇文章就是用一頁紙的方式整理出來的，既然都看完書了就把書裡的方法實踐一下。實際上使用是真的好用，而且可以將資訊整理成自己可以思考的結構，是個不錯的筆記方式。<br></p>]]></content:encoded>
+            <category>journal</category>
+        </item>
+        <item>
+            <title><![CDATA[2025-11-26]]></title>
+            <link>https://chwe12.github.io/blog/2025-11-26</link>
+            <guid>https://chwe12.github.io/blog/2025-11-26</guid>
+            <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[初級證照大概是過了]]></description>
+            <content:encoded><![CDATA[<p>初級證照大概是過了<br></p>
+<ol>
+<li class="">今天研究一下有關Modbus RTU和Modbus TCP的連線，有遇到的問題是關掉調整硬體的軟體才可以用modscan和modsim，<br>
+這個已經錯好幾次還沒記起來...<br></li>
+<li class="">modscan和modsim的差別是modsim是模擬，modscan掃描<br></li>
+<li class="">把這個網頁的文件和架構調整一下，嘗試調整更新到source<br></li>
+</ol>]]></content:encoded>
+            <category>journal</category>
+        </item>
+        <item>
+            <title><![CDATA[2025-11-12]]></title>
+            <link>https://chwe12.github.io/blog/2025-11-12</link>
+            <guid>https://chwe12.github.io/blog/2025-11-12</guid>
+            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[IoT 考題紀錄]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="iot-考題紀錄">IoT 考題紀錄<a href="https://chwe12.github.io/blog/2025-11-12#iot-%E8%80%83%E9%A1%8C%E7%B4%80%E9%8C%84" class="hash-link" aria-label="Direct link to IoT 考題紀錄" title="Direct link to IoT 考題紀錄" translate="no">​</a></h3>
+<p>以下統整部分歷屆考題的比例分配重點。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="考題概念比例與總結">考題概念比例與總結<a href="https://chwe12.github.io/blog/2025-11-12#%E8%80%83%E9%A1%8C%E6%A6%82%E5%BF%B5%E6%AF%94%E4%BE%8B%E8%88%87%E7%B8%BD%E7%B5%90" class="hash-link" aria-label="Direct link to 考題概念比例與總結" title="Direct link to 考題概念比例與總結" translate="no">​</a></h2>
+<p>從多份試卷中（共 <strong>477 題</strong>），可觀察到<strong>物聯網基礎架構與通訊協定</strong>為主要考察方向。<br>
+<!-- -->其中以 <strong>網路層通訊協定與技術</strong> 佔比最高，其次為 <strong>雲端平台與服務模式</strong> 及 <strong>感知層技術與概念</strong>。</p>
+<table><thead><tr><th style="text-align:left">類別 (Category)</th><th style="text-align:left">題數 (Count)</th><th style="text-align:left">比例 (Percentage)</th></tr></thead><tbody><tr><td style="text-align:left"><strong>I. 感知層技術與概念</strong></td><td style="text-align:left">59</td><td style="text-align:left">12.4%</td></tr><tr><td style="text-align:left"><strong>II. 辨識技術與應用 (RFID/NFC/條碼)</strong></td><td style="text-align:left">42</td><td style="text-align:left">8.8%</td></tr><tr><td style="text-align:left"><strong>III. EPCglobal/GS1 標準</strong></td><td style="text-align:left">14</td><td style="text-align:left">2.9%</td></tr><tr><td style="text-align:left"><strong>IV. 網路層通訊協定與技術</strong></td><td style="text-align:left">91</td><td style="text-align:left">19.1%</td></tr><tr><td style="text-align:left"><strong>V. 雲端平台與服務模式</strong></td><td style="text-align:left">77</td><td style="text-align:left">16.1%</td></tr><tr><td style="text-align:left"><strong>VI. 應用與趨勢 (IoT 概念/場景/M2M)</strong></td><td style="text-align:left">48</td><td style="text-align:left">10.1%</td></tr><tr><td style="text-align:left"><strong>VII. 系統硬體/嵌入式系統</strong></td><td style="text-align:left">45</td><td style="text-align:left">9.4%</td></tr><tr><td style="text-align:left"><strong>VIII. 序列通訊與介面 (UART/I2C/SPI)</strong></td><td style="text-align:left">25</td><td style="text-align:left">5.2%</td></tr><tr><td style="text-align:left"><strong>IX. 資訊安全與隱私</strong></td><td style="text-align:left">35</td><td style="text-align:left">7.3%</td></tr><tr><td style="text-align:left"><strong>X. 開源軟硬體與授權</strong></td><td style="text-align:left">20</td><td style="text-align:left">4.2%</td></tr><tr><td style="text-align:left"><strong>XI. 電磁波與輻射安全</strong></td><td style="text-align:left">11</td><td style="text-align:left">2.3%</td></tr><tr><td style="text-align:left"><strong>總計</strong></td><td style="text-align:left"><strong>477</strong></td><td style="text-align:left"><strong>100%</strong></td></tr></tbody></table>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="詳細分類結果">詳細分類結果<a href="https://chwe12.github.io/blog/2025-11-12#%E8%A9%B3%E7%B4%B0%E5%88%86%E9%A1%9E%E7%B5%90%E6%9E%9C" class="hash-link" aria-label="Direct link to 詳細分類結果" title="Direct link to 詳細分類結果" translate="no">​</a></h2>
+<p>更多資料請參考上方完整表格</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="i-感知層技術與概念">I. 感知層技術與概念<a href="https://chwe12.github.io/blog/2025-11-12#i-%E6%84%9F%E7%9F%A5%E5%B1%A4%E6%8A%80%E8%A1%93%E8%88%87%E6%A6%82%E5%BF%B5" class="hash-link" aria-label="Direct link to I. 感知層技術與概念" title="Direct link to I. 感知層技術與概念" translate="no">​</a></h3>
+<p>包含感測器類型、工作原理、偵測能力、感知層架構、感測器故障排除與信號處理流程</p>
+<table><thead><tr><th style="text-align:left">試卷來源與題號</th><th style="text-align:left">概念分類</th></tr></thead><tbody><tr><td style="text-align:left">108-2 L11 Q1–Q10</td><td style="text-align:left">感知層概論與感測器類型</td></tr><tr><td style="text-align:left">110-1 S1 Q1–Q10, Q38, Q39</td><td style="text-align:left">霍爾、溫度、加速度計、超音波、光達原理與應用</td></tr><tr><td style="text-align:left">113-1 S1 Q1–Q10</td><td style="text-align:left">氣體、毫米波、TPMS、感測器限制</td></tr></tbody></table>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="ii-辨識技術與應用">II. 辨識技術與應用<a href="https://chwe12.github.io/blog/2025-11-12#ii-%E8%BE%A8%E8%AD%98%E6%8A%80%E8%A1%93%E8%88%87%E6%87%89%E7%94%A8" class="hash-link" aria-label="Direct link to II. 辨識技術與應用" title="Direct link to II. 辨識技術與應用" translate="no">​</a></h3>
+<p>RFID 標籤/NFC 模式/條碼比較，探討頻段、耦合方式、防碰撞與應用場景
+可參考blog 2025-08-20, 2025-11-07 紀錄</p>
+<table><thead><tr><th style="text-align:left">試卷來源與題號</th><th style="text-align:left">概念分類</th></tr></thead><tbody><tr><td style="text-align:left">108-2 L11 Q11–Q45</td><td style="text-align:left">RFID 標籤、條碼比較、悠遊卡、NFC 應用</td></tr><tr><td style="text-align:left">110-2 S1 Q11–Q46</td><td style="text-align:left">RFID 標籤類型、主被動比較、防碰撞、NFC</td></tr><tr><td style="text-align:left">114-2 S1 Q8–Q15</td><td style="text-align:left">UHF RFID/NFC 比較、屏蔽、低頻應用</td></tr></tbody></table>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="iii-epcglobal-標準">III. EPCglobal 標準<a href="https://chwe12.github.io/blog/2025-11-12#iii-epcglobal-%E6%A8%99%E6%BA%96" class="hash-link" aria-label="Direct link to III. EPCglobal 標準" title="Direct link to III. EPCglobal 標準" translate="no">​</a></h3>
+<p>EPCglobal 架構、EPC 編碼、LLRP 及 EPCIS 事件模型
+可參考blog 2025-11-07 紀錄</p>
+<table><thead><tr><th style="text-align:left">試卷來源與題號</th><th style="text-align:left">概念分類</th></tr></thead><tbody><tr><td style="text-align:left">108-2 L11 Q13, Q46–Q50</td><td style="text-align:left">EPC 協定、擷取層、LLRP 功能、EPCIS</td></tr><tr><td style="text-align:left">111-1 S1 Q17, Q48–Q50</td><td style="text-align:left">無人商店結帳旗標、ONS、架構功能</td></tr><tr><td style="text-align:left">114-2 S1 Q48–Q50</td><td style="text-align:left">EPCglobal 架構層級、標籤結構、PML</td></tr></tbody></table>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="iv-網路層通訊協定與技術">IV. 網路層通訊協定與技術<a href="https://chwe12.github.io/blog/2025-11-12#iv-%E7%B6%B2%E8%B7%AF%E5%B1%A4%E9%80%9A%E8%A8%8A%E5%8D%94%E5%AE%9A%E8%88%87%E6%8A%80%E8%A1%93" class="hash-link" aria-label="Direct link to IV. 網路層通訊協定與技術" title="Direct link to IV. 網路層通訊協定與技術" translate="no">​</a></h3>
+<p>Wi-Fi、Bluetooth、ZigBee、LoRa、NB-IoT、UWB、IPv6、TCP/UDP、MQTT/CoAP/HTTP 等
+可參考blog 2025-08-20, 2025-11-07 紀錄</p>
+<table><thead><tr><th style="text-align:left">試卷來源與題號</th><th style="text-align:left">概念分類</th></tr></thead><tbody><tr><td style="text-align:left">108-2 L11 Q9–Q30</td><td style="text-align:left">Beacon、網路交換、MQTT QoS、Wi-Fi 干擾</td></tr><tr><td style="text-align:left">111-1 S1 Q1–Q47</td><td style="text-align:left">Beacon、ZigBee 定位、LPWAN、OFDMA、IPv6</td></tr><tr><td style="text-align:left">114-2 S1 Q6–Q46</td><td style="text-align:left">NB-IoT、LPWAN、5G 應用、IPv6 隧道</td></tr></tbody></table>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="v-雲端平台與服務">V. 雲端平台與服務<a href="https://chwe12.github.io/blog/2025-11-12#v-%E9%9B%B2%E7%AB%AF%E5%B9%B3%E5%8F%B0%E8%88%87%E6%9C%8D%E5%8B%99" class="hash-link" aria-label="Direct link to V. 雲端平台與服務" title="Direct link to V. 雲端平台與服務" translate="no">​</a></h3>
+<p>IaaS、PaaS、SaaS、NoSQL、Data Lake、Docker、邊緣/霧運算與 API 服務（REST/JSON）
+可參考blog 2025-11-10 紀錄</p>
+<table><thead><tr><th style="text-align:left">試卷來源與題號</th><th style="text-align:left">概念分類</th></tr></thead><tbody><tr><td style="text-align:left">108-2 L11 Q31–Q44</td><td style="text-align:left">SaaS、流量管理、Connectivity Enablement</td></tr><tr><td style="text-align:left">112-1 S2 Q4–Q50</td><td style="text-align:left">IaaS、NoSQL、邊緣運算、資料視覺化</td></tr><tr><td style="text-align:left">114-2 S2 Q3–Q47</td><td style="text-align:left">AI/ML、霧運算、資料庫架構、Redis</td></tr></tbody></table>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="vi-應用趨勢">VI. 應用趨勢<a href="https://chwe12.github.io/blog/2025-11-12#vi-%E6%87%89%E7%94%A8%E8%B6%A8%E5%8B%A2" class="hash-link" aria-label="Direct link to VI. 應用趨勢" title="Direct link to VI. 應用趨勢" translate="no">​</a></h3>
+<p>IoT 總體架構、智慧家庭、智慧城市、醫療、M2M、Open Data、WoT 等</p>
+<table><thead><tr><th style="text-align:left">試卷來源與題號</th><th style="text-align:left">概念分類</th></tr></thead><tbody><tr><td style="text-align:left">108-2 L11 Q20–Q42</td><td style="text-align:left">IoT 定義、智慧城市/家庭/電網</td></tr><tr><td style="text-align:left">113-1 S2 Q1–Q50</td><td style="text-align:left">智慧工廠、智慧交通、GPS 追蹤</td></tr><tr><td style="text-align:left">114-2 S2 Q6–Q50</td><td style="text-align:left">智慧停車、能源優化、產能利用率</td></tr></tbody></table>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="vii-系統硬體與嵌入式系統">VII. 系統硬體與嵌入式系統<a href="https://chwe12.github.io/blog/2025-11-12#vii-%E7%B3%BB%E7%B5%B1%E7%A1%AC%E9%AB%94%E8%88%87%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%B5%B1" class="hash-link" aria-label="Direct link to VII. 系統硬體與嵌入式系統" title="Direct link to VII. 系統硬體與嵌入式系統" translate="no">​</a></h3>
+<p>MCU/MPU、Arduino/Raspberry Pi、電源管理與故障排除</p>
+<table><thead><tr><th style="text-align:left">試卷來源與題號</th><th style="text-align:left">概念分類</th></tr></thead><tbody><tr><td style="text-align:left">108-2 L12 Q1–Q39</td><td style="text-align:left">RPi/Arduino 概論、MCU、中斷</td></tr><tr><td style="text-align:left">111-2 S2 Q13–Q38</td><td style="text-align:left">LED 電路、邏輯分析儀、PWM</td></tr><tr><td style="text-align:left">114-2 S2 Q1–Q34</td><td style="text-align:left">Flash 壽命、訊號穩定性</td></tr></tbody></table>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="viii-序列通訊與介面">VIII. 序列通訊與介面<a href="https://chwe12.github.io/blog/2025-11-12#viii-%E5%BA%8F%E5%88%97%E9%80%9A%E8%A8%8A%E8%88%87%E4%BB%8B%E9%9D%A2" class="hash-link" aria-label="Direct link to VIII. 序列通訊與介面" title="Direct link to VIII. 序列通訊與介面" translate="no">​</a></h3>
+<p>UART、I2C、SPI 等嵌入式通訊介面</p>
+<table><thead><tr><th style="text-align:left">試卷來源與題號</th><th style="text-align:left">概念分類</th></tr></thead><tbody><tr><td style="text-align:left">108-2 L12 Q3–Q37</td><td style="text-align:left">RS232/USB、UART 鮑率、I2C/SPI 比較</td></tr><tr><td style="text-align:left">112-1 S2 Q28–Q40</td><td style="text-align:left">SPI、RS-485、I2C、UART 線數</td></tr><tr><td style="text-align:left">114-2 S2 Q26–Q37</td><td style="text-align:left">UART 流量控制、SPI 晶片選擇</td></tr></tbody></table>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="ix-資訊安全">IX. 資訊安全<a href="https://chwe12.github.io/blog/2025-11-12#ix-%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8" class="hash-link" aria-label="Direct link to IX. 資訊安全" title="Direct link to IX. 資訊安全" translate="no">​</a></h3>
+<p>TLS/SSL、AAA、OAuth、DDoS、GDPR、OWASP 等資安與隱私</p>
+<table><thead><tr><th style="text-align:left">試卷來源與題號</th><th style="text-align:left">概念分類</th></tr></thead><tbody><tr><td style="text-align:left">108-2 L11 Q16, Q36</td><td style="text-align:left">TLS 加密、AAA 管理</td></tr><tr><td style="text-align:left">111-1 S2 Q27–Q32</td><td style="text-align:left">ISMS 標準、Wi-Fi 保護、GDPR</td></tr><tr><td style="text-align:left">114-2 S2 Q20–Q25, Q40</td><td style="text-align:left">封包竄改、MitM、RFID 安全</td></tr></tbody></table>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="x-開源軟硬體與授權">X. 開源軟硬體與授權<a href="https://chwe12.github.io/blog/2025-11-12#x-%E9%96%8B%E6%BA%90%E8%BB%9F%E7%A1%AC%E9%AB%94%E8%88%87%E6%8E%88%E6%AC%8A" class="hash-link" aria-label="Direct link to X. 開源軟硬體與授權" title="Direct link to X. 開源軟硬體與授權" translate="no">​</a></h3>
+<p>GPL、CC、BSD、Copyleft 等授權條款與開源概念</p>
+<table><thead><tr><th style="text-align:left">試卷來源與題號</th><th style="text-align:left">概念分類</th></tr></thead><tbody><tr><td style="text-align:left">108-2 L12 Q28–Q50</td><td style="text-align:left">Arduino 授權、CC 授權、GPL/Copyleft</td></tr><tr><td style="text-align:left">109-2 S2 Q28–Q50</td><td style="text-align:left">開源文件、授權條款、自由軟體</td></tr><tr><td style="text-align:left">112-2 S2 Q4–Q42</td><td style="text-align:left">公共領域軟體、CC BY-SA、姓名標示</td></tr></tbody></table>
+<hr>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="xi-電磁波與輻射安全">XI. 電磁波與輻射安全<a href="https://chwe12.github.io/blog/2025-11-12#xi-%E9%9B%BB%E7%A3%81%E6%B3%A2%E8%88%87%E8%BC%BB%E5%B0%84%E5%AE%89%E5%85%A8" class="hash-link" aria-label="Direct link to XI. 電磁波與輻射安全" title="Direct link to XI. 電磁波與輻射安全" translate="no">​</a></h3>
+<p>SAR、輻射分類、功率限制與抗干擾措施</p>
+<table><thead><tr><th style="text-align:left">試卷來源與題號</th><th style="text-align:left">概念分類</th></tr></thead><tbody><tr><td style="text-align:left">108-2 L11 Q26–Q29</td><td style="text-align:left">游離輻射、電磁波特性</td></tr><tr><td style="text-align:left">110-1 S1 Q26–Q30</td><td style="text-align:left">基地台電磁波、SAR 單位</td></tr><tr><td style="text-align:left">114-2 S1 Q26–Q30</td><td style="text-align:left">FCC RF 距離、毫米波波束成形</td></tr></tbody></table>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="交叉參考">交叉參考<a href="https://chwe12.github.io/blog/2025-11-12#%E4%BA%A4%E5%8F%89%E5%8F%83%E8%80%83" class="hash-link" aria-label="Direct link to 交叉參考" title="Direct link to 交叉參考" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>序列通訊與介面</strong>：見 <a href="https://chwe12.github.io/blog/2025-11-12#viii-%E5%BA%8F%E5%88%97%E9%80%9A%E8%A8%8A%E8%88%87%E4%BB%8B%E9%9D%A2" class="">VIII. 序列通訊與介面</a></li>
+<li class=""><strong>系統硬體/嵌入式系統</strong>：見 <a href="https://chwe12.github.io/blog/2025-11-12#vii-%E7%B3%BB%E7%B5%B1%E7%A1%AC%E9%AB%94%E8%88%87%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%B5%B1" class="">VII. 系統硬體與嵌入式系統</a></li>
+<li class=""><strong>EPCglobal/GS1 標準</strong>：見 <a href="https://chwe12.github.io/blog/2025-11-12#iii-epcglobalgs1-%E6%A8%99%E6%BA%96" class="">III. EPCglobal/GS1 標準</a></li>
+</ul>
+<hr>
+<p><em>資料來源：彙整自 108–114 年度多份物聯網應用相關試卷，共 477 題。</em></p>]]></content:encoded>
+            <category>Note</category>
+            <category>IoT</category>
+        </item>
+        <item>
+            <title><![CDATA[2025-11-10]]></title>
+            <link>https://chwe12.github.io/blog/2025-11-10</link>
+            <guid>https://chwe12.github.io/blog/2025-11-10</guid>
+            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[IoT 考題紀錄]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="iot-考題紀錄">IoT 考題紀錄<a href="https://chwe12.github.io/blog/2025-11-10#iot-%E8%80%83%E9%A1%8C%E7%B4%80%E9%8C%84" class="hash-link" aria-label="Direct link to IoT 考題紀錄" title="Direct link to IoT 考題紀錄" translate="no">​</a></h3>
+<p>2025/11 考試，紀錄不清楚、忘記寫甚麼的問題，把選擇錯誤選項改成寫正確選項</p>
+<ul>
+<li class="">在物聯網系統中，選擇使用Redis 作為資料存儲時，下列哪一項特性「最」能滿足高頻率讀寫的需求？<!-- -->
+<ul>
+<li class="">以記憶體為基礎的存儲方式，提供高速讀寫能力</li>
+</ul>
+</li>
+<li class="">為了高效處理需要即時回應的任務並減輕雲端負擔，下列哪一項邊緣運算的設計策略「最」能提升系統的穩定性和可靠性？<!-- -->
+<ul>
+<li class="">邊緣設備中部署分散式協同處理機制以提高容錯性</li>
+<li class="">將邊緣設備的資料處理優化為只存儲資料之詮釋資料（Metadata）<br>
+錯誤：Metadata 是描述資料本身屬性、結構、來源、時間等資訊的附加資料。不是資料本體。</li>
+</ul>
+</li>
+<li class="">若要利用Raspberry Pi 讀取一個類比感測器（例如：可變電阻）的數值，下列哪一項是最常見且標準的做法？<!-- -->
+<ul>
+<li class="">外接一個類比數位轉換（Analog-to-Digital Converter, ADC）的積體電路，將感測器的類比訊號轉換成數位資料後，再透過I2C（Inter-Integrated Circuit）或SPI（Serial Peripheral Interface）介面傳輸給Raspberry Pi</li>
+</ul>
+</li>
+<li class="">JSON 格式<!-- -->
+<ul>
+<li class="">JSON Object 內的Value 可以是字串、數值、JSON Object 或JSON Array</li>
+<li class="">JSON Object 最外層是大括弧，其中資料的格式為Key/Value Pair，Key 與Value 之間以冒號(:)隔開，多個Key/Value Pair 間用逗號隔開</li>
+<li class="">JSON Object 可以有巢狀結構，即JSON Object 內可以含有JSON Object，也可以含有JSON Array</li>
+</ul>
+</li>
+<li class="">在設計物聯網設備時，為了確保 UART （Universal Asynchronous Receiver-Transmitter）通訊的穩定性，下列哪種方法「最」為有效？<!-- -->
+<ul>
+<li class="">使用硬體流量控制（請求發送RTS/清除發送CTS）避免數據丟失</li>
+</ul>
+</li>
+<li class="">AQMP 通訊協定架構<!-- -->
+<ul>
+<li class="">Producer (生產者、或者說訊息發送者)、Exchange (交換器、透過交換器解偶生產者與消費者的關聯)、Queue (佇列、訊息的存放區域)、Consumer (消費者、或者說訊息接收者)、Channel (通道、生產者與消費者的傳輸管道)、Connection (連線)</li>
+</ul>
+</li>
+<li class="">霧運算IoT 系統出現決策延遲的最可能原因，下列哪一項正確？<!-- -->
+<ul>
+<li class="">邊緣節點負載過重缺乏平衡</li>
+<li class="">可參考：<a href="https://medium.com/it-digital-%E4%BA%92%E8%81%AF%E7%B6%B2/%E9%9B%B2%E8%A8%88%E7%AE%97%E4%B9%8B%E4%B8%8A%E9%82%84%E6%9C%89%E9%9C%A7%E8%A8%88%E7%AE%97-%E9%9C%A7%E8%A8%88%E7%AE%97%E7%9A%84%E5%85%A5%E9%96%80-fog-computing-3eab52996c71" target="_blank" rel="noopener noreferrer" class="">https://medium.com/it-digital-%E4%BA%92%E8%81%AF%E7%B6%B2/%E9%9B%B2%E8%A8%88%E7%AE%97%E4%B9%8B%E4%B8%8A%E9%82%84%E6%9C%89%E9%9C%A7%E8%A8%88%E7%AE%97-%E9%9C%A7%E8%A8%88%E7%AE%97%E7%9A%84%E5%85%A5%E9%96%80-fog-computing-3eab52996c71</a></li>
+</ul>
+</li>
+<li class="">智慧手環與手機藍牙連接後頻繁斷線，應如何故障排除？<!-- -->
+<ul>
+<li class="">測試手環的電池電量是否過低</li>
+</ul>
+</li>
+<li class="">LiDAR（Light Detection and Ranging）感測技術通常使用下列哪一種波長範圍的雷射光來測量距離？<!-- -->
+<ul>
+<li class="">近紅外光</li>
+</ul>
+</li>
+<li class="">ISO 14443 為非接觸式RFID 定義了兩種卡的類型：Type A和Type B。<!-- -->
+<ul>
+<li class="">信號調變（modulation）、編碼（encoding）不相同</li>
+<li class="">悠遊卡、一卡通皆為ISO 14443 應用</li>
+<li class="">感測距離皆為為0~10 公分</li>
+</ul>
+</li>
+<li class="">下列哪一項 5G 應用情境符合需要部署大量感測器的物聯網應用？<!-- -->
+<ul>
+<li class="">mMTC（Massive Machine Type Communication）</li>
+</ul>
+</li>
+<li class="">5G 技術中的超可靠低延遲通訊（Ultra-Reliable and Low Latency Communications, URLLC）主要應用於哪一類情境？<!-- -->
+<ul>
+<li class="">工業自動化和遠距醫療</li>
+</ul>
+</li>
+<li class="">在ZigBee 網路層中，下列哪一個特性「最」能幫助網路在節點故障時自動恢復其拓撲結構？<!-- -->
+<ul>
+<li class="">鄰居表（Neighbor Table）的動態更新</li>
+</ul>
+</li>
+<li class="">NB-IoT 的技術特性<!-- -->
+<ul>
+<li class="">NB-IoT 不支援VoLTE</li>
+<li class="">NB-IoT 不支援基地台間的交遞（Handover）</li>
+<li class="">NB-IoT 涵蓋範圍較LTE 廣</li>
+</ul>
+</li>
+<li class="">根據FCC 公布的47 CFR part 15 規定，操作RF 射頻設備和人體之間至少需間隔多少的距離？<!-- -->
+<ul>
+<li class="">8 英吋</li>
+</ul>
+</li>
+<li class="">在使用 MU-MIMO （Multi-User Multiple-Input Multiple-Output）技術的無線網路中，下列哪一種情況「最」有助於發揮MU-MIMO 的優勢來提高多用戶的網路效能？<!-- -->
+<ul>
+<li class="">讓多個用戶分佈在不同的空間位置上</li>
+</ul>
+</li>
+<li class="">智慧交通資料收集平台需要儲存來自交通攝影機的原始影像、空氣品質感測器的結構化數據以及社群媒體的非結構化文字。下列哪一種數據儲存方案最適合作為這些多樣化原始數據的集中存放區？<!-- -->
+<ul>
+<li class="">雲端資料湖（Cloud Data Lake）</li>
+</ul>
+</li>
+<li class="">在智慧城市平台中，要安全地管理數以百萬計、無使用者介面的物聯網裝置（如智慧電錶）的身分，並授權存取雲端 API，下列哪一種身分驗證機制最合適？<!-- -->
+<ul>
+<li class="">基於X.509 的驗證</li>
+</ul>
+</li>
+<li class="">在 EPCglobal 網路架構中，使用實體標記語言（Physical Markup Language, PML）的主要目的，下列哪一項正確？<!-- -->
+<ul>
+<li class="">描述EPC 標籤的物件屬性和狀態</li>
+</ul>
+</li>
+</ul>]]></content:encoded>
+            <category>Note</category>
+            <category>IoT</category>
+        </item>
+        <item>
+            <title><![CDATA[2025-11-07]]></title>
+            <link>https://chwe12.github.io/blog/2025-11-07</link>
+            <guid>https://chwe12.github.io/blog/2025-11-07</guid>
+            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[IoT上課部分筆記]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="iot上課部分筆記">IoT上課部分筆記<a href="https://chwe12.github.io/blog/2025-11-07#iot%E4%B8%8A%E8%AA%B2%E9%83%A8%E5%88%86%E7%AD%86%E8%A8%98" class="hash-link" aria-label="Direct link to IoT上課部分筆記" title="Direct link to IoT上課部分筆記" translate="no">​</a></h3>
+<p>繼續整理，筆記和網路上的資料...不知道有沒有錯的<br></p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="rfid-依照頻率分類">RFID 依照頻率分類<a href="https://chwe12.github.io/blog/2025-11-07#rfid-%E4%BE%9D%E7%85%A7%E9%A0%BB%E7%8E%87%E5%88%86%E9%A1%9E" class="hash-link" aria-label="Direct link to RFID 依照頻率分類" title="Direct link to RFID 依照頻率分類" translate="no">​</a></h3>
+<table><thead><tr><th style="text-align:center">頻率</th><th style="text-align:center">範例</th><th style="text-align:center">特性</th><th style="text-align:center">距離</th><th style="text-align:center">標準</th><th style="text-align:center">讀取</th></tr></thead><tbody><tr><td style="text-align:center">LF (125k/135k)</td><td style="text-align:center">生物晶片、汽車鑰匙</td><td style="text-align:center">穿透水金屬</td><td style="text-align:center">近距離</td><td style="text-align:center"></td><td style="text-align:center">感應耦合</td></tr><tr><td style="text-align:center">HF (13.56M)</td><td style="text-align:center">悠遊卡、行動支付</td><td style="text-align:center">安全高</td><td style="text-align:center">5–10 cm</td><td style="text-align:center">ISO14443 A/B</td><td style="text-align:center">感應耦合</td></tr><tr><td style="text-align:center">UHF (922M)</td><td style="text-align:center">ETag、物流</td><td style="text-align:center">穿不過水金屬</td><td style="text-align:center">2–10 m</td><td style="text-align:center">ISO18000-63/6C</td><td style="text-align:center">回波散射</td></tr></tbody></table>
+<p>RFID 記憶體區</p>
+<ul>
+<li class="">Reserved (kill/Access 密碼)</li>
+<li class="">EPC(最重要資料)</li>
+<li class="">TID(唯讀、防盜)</li>
+<li class="">USER</li>
+</ul>
+<p>碰撞問題</p>
+<ul>
+<li class="">多個標籤同時傳資料會碰撞</li>
+<li class="">ALOHA (UHF 使用) 調整傳送時間</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="必考定位技術">必考定位技術<a href="https://chwe12.github.io/blog/2025-11-07#%E5%BF%85%E8%80%83%E5%AE%9A%E4%BD%8D%E6%8A%80%E8%A1%93" class="hash-link" aria-label="Direct link to 必考定位技術" title="Direct link to 必考定位技術" translate="no">​</a></h3>
+<table><thead><tr><th style="text-align:center">場景</th><th style="text-align:center">技術</th></tr></thead><tbody><tr><td style="text-align:center">室外</td><td style="text-align:center">GPS</td></tr><tr><td style="text-align:center">室內</td><td style="text-align:center">藍牙、ZigBee、UWB(最精準)、Wi-Fi</td></tr></tbody></table>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="網路層技術表">網路層技術表<a href="https://chwe12.github.io/blog/2025-11-07#%E7%B6%B2%E8%B7%AF%E5%B1%A4%E6%8A%80%E8%A1%93%E8%A1%A8" class="hash-link" aria-label="Direct link to 網路層技術表" title="Direct link to 網路層技術表" translate="no">​</a></h3>
+<table><thead><tr><th style="text-align:center">技術</th><th style="text-align:center">頻率</th><th style="text-align:center">支援/架構</th><th style="text-align:center">傳輸方式</th><th style="text-align:center">特點</th><th style="text-align:center">規範/組織</th></tr></thead><tbody><tr><td style="text-align:center">ZigBee</td><td style="text-align:center">台灣：2.4G/2.45G、歐洲：915M、868M</td><td style="text-align:center">Mesh、IEEE 802.15.4</td><td style="text-align:center">短距無線傳輸</td><td style="text-align:center">低功耗、中低速率 (20k~250)、16～26 個頻道</td><td style="text-align:center">IEEE 802.15.4、ZigBee</td></tr><tr><td style="text-align:center">Thread</td><td style="text-align:center">2.4G (與ZigBee相同)</td><td style="text-align:center">6LoWPAN、固定 IP</td><td style="text-align:center">短距離無線傳輸</td><td style="text-align:center">低功耗、高安全性</td><td style="text-align:center">IEEE 802.15.4</td></tr><tr><td style="text-align:center">Bluetooth / BLE</td><td style="text-align:center">2.4 GHz</td><td style="text-align:center">Mesh Network、支援 BLE（4.0/5）</td><td style="text-align:center">廣播、網路、配對</td><td style="text-align:center">低功耗、短封包、長距離、支援 iBeacon</td><td style="text-align:center">Bluetooth SIG</td></tr><tr><td style="text-align:center">Wi-Fi</td><td style="text-align:center">2.4G / 5G / 6G</td><td style="text-align:center">無線網路傳輸</td><td style="text-align:center">Wi-Fi 6(ax)：高速、Wi-Fi 7(be)：更快</td><td style="text-align:center"></td><td style="text-align:center">IEEE 802.11</td></tr><tr><td style="text-align:center">UWB</td><td style="text-align:center">超寬頻（多頻段）</td><td style="text-align:center">裝置對裝置</td><td style="text-align:center">短脈衝（ToF）</td><td style="text-align:center">超精準定位、高安全、短距離、低功耗、成本較高</td><td style="text-align:center"></td></tr><tr><td style="text-align:center">電磁波</td><td style="text-align:center">依不同通訊：無線電、微波</td><td style="text-align:center">基地台、手機</td><td style="text-align:center">無線傳輸</td><td style="text-align:center">SAR 2 W/kg、距離越遠電磁波越少、跳頻可減干擾</td><td style="text-align:center">NCC頻段審查</td></tr><tr><td style="text-align:center">5G</td><td style="text-align:center">高頻（mmWave）</td><td style="text-align:center">蜂巢式網路</td><td style="text-align:center">定向天線傳輸</td><td style="text-align:center">高頻、抗干擾、定向傳輸、覆蓋小需多基地台</td><td style="text-align:center"></td></tr></tbody></table>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="定位技術-rtls">定位技術 (RTLS)<a href="https://chwe12.github.io/blog/2025-11-07#%E5%AE%9A%E4%BD%8D%E6%8A%80%E8%A1%93-rtls" class="hash-link" aria-label="Direct link to 定位技術 (RTLS)" title="Direct link to 定位技術 (RTLS)" translate="no">​</a></h3>
+<ul>
+<li class="">TDOA：訊號衰減</li>
+<li class="">TOA：多讀取器衰減</li>
+<li class="">AOA/AOD：角度</li>
+<li class="">RTT：往返時間</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="epc">EPC<a href="https://chwe12.github.io/blog/2025-11-07#epc" class="hash-link" aria-label="Direct link to EPC" title="Direct link to EPC" translate="no">​</a></h3>
+<p>三層架構</p>
+<ul>
+<li class="">識別</li>
+<li class="">擷取</li>
+<li class="">交換</li>
+</ul>
+<p>EPCglobal (RFID 國際標準)</p>
+<table><thead><tr><th style="text-align:center">標準</th><th style="text-align:center">說明</th></tr></thead><tbody><tr><td style="text-align:center">ISO18000-3</td><td style="text-align:center">HF</td></tr><tr><td style="text-align:center">ISO18000-4</td><td style="text-align:center">2.45G</td></tr><tr><td style="text-align:center">ISO18000-6C/63</td><td style="text-align:center">UHF</td></tr></tbody></table>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="電磁波--sar">電磁波 &amp; SAR<a href="https://chwe12.github.io/blog/2025-11-07#%E9%9B%BB%E7%A3%81%E6%B3%A2--sar" class="hash-link" aria-label="Direct link to 電磁波 &amp; SAR" title="Direct link to 電磁波 &amp; SAR" translate="no">​</a></h3>
+<p>電磁波分類</p>
+<table><thead><tr><th style="text-align:center">類型</th><th style="text-align:center">例子</th><th style="text-align:center">管理單位</th></tr></thead><tbody><tr><td style="text-align:center">游離</td><td style="text-align:center">X光、αβγ 射線</td><td style="text-align:center">原子能委員會</td></tr><tr><td style="text-align:center">非游離</td><td style="text-align:center">紫外線、紅外線、可見光、無線電、微波爐</td><td style="text-align:center">環保署</td></tr></tbody></table>
+<p>其他</p>
+<ul>
+<li class="">手機 SAR：2 W/kg</li>
+<li class="">基地台最⾼：500W（1W=30dBm）</li>
+<li class="">NCC：負責檢測無線設備頻段</li>
+<li class="">跳頻可降低干擾</li>
+</ul>]]></content:encoded>
+            <category>Note</category>
+            <category>IoT</category>
+        </item>
+        <item>
+            <title><![CDATA[2025-10-25]]></title>
+            <link>https://chwe12.github.io/blog/2025-10-25</link>
+            <guid>https://chwe12.github.io/blog/2025-10-25</guid>
+            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[樹莓派相關測試]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="樹莓派相關測試">樹莓派相關測試<a href="https://chwe12.github.io/blog/2025-10-25#%E6%A8%B9%E8%8E%93%E6%B4%BE%E7%9B%B8%E9%97%9C%E6%B8%AC%E8%A9%A6" class="hash-link" aria-label="Direct link to 樹莓派相關測試" title="Direct link to 樹莓派相關測試" translate="no">​</a></h3>
+<ol>
+<li class="">把SSD弄到可以開機掛載在樹莓派了! 這樣未來要放PXE的檔案可能會容易些，現在最大的困擾應該還是HDMI和VGA輸出的問題，公司的螢幕限制很多。<br>
+紀錄一下是參考這篇文章掛載的：<a href="https://www.weichen.idv.tw/wordpress/2023/02/20/ubuntu-%E9%96%8B%E6%A9%9F%E8%87%AA%E5%8B%95%E6%8E%9B%E8%BC%89%E7%A1%AC%E7%A2%9F/" target="_blank" rel="noopener noreferrer" class="">https://www.weichen.idv.tw/wordpress/2023/02/20/ubuntu-%E9%96%8B%E6%A9%9F%E8%87%AA%E5%8B%95%E6%8E%9B%E8%BC%89%E7%A1%AC%E7%A2%9F/</a>
+<br>
+</li>
+<li class="">本來還在嘗試是不是要開PCIe的通道，不過看起來是不需要。<br></li>
+</ol>]]></content:encoded>
+            <category>journal</category>
+            <category>Raspberry Pi</category>
+        </item>
+        <item>
+            <title><![CDATA[2025-10-22]]></title>
+            <link>https://chwe12.github.io/blog/2025-10-22</link>
+            <guid>https://chwe12.github.io/blog/2025-10-22</guid>
+            <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Windows遠端連線測試]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="windows遠端連線測試">Windows遠端連線測試<a href="https://chwe12.github.io/blog/2025-10-22#windows%E9%81%A0%E7%AB%AF%E9%80%A3%E7%B7%9A%E6%B8%AC%E8%A9%A6" class="hash-link" aria-label="Direct link to Windows遠端連線測試" title="Direct link to Windows遠端連線測試" translate="no">​</a></h3>
+<ol>
+<li class="">意外找到可以把anydesk的廣告秒數消除的方法：到%appdata%把資料夾刪掉即可。<br>
+使用其他文章的完整刪除和刪掉regedit內的殘存檔對我的電腦是沒有用的。<br></li>
+<li class="">把這個網站推送的.bat檔案再修改一下，這樣就方便許多...可以在本地做測試、推送、還可以reset拉取最新的版本<br></li>
+</ol>]]></content:encoded>
+            <category>journal</category>
+        </item>
+        <item>
+            <title><![CDATA[2025-09-23]]></title>
+            <link>https://chwe12.github.io/blog/2025-09-23</link>
+            <guid>https://chwe12.github.io/blog/2025-09-23</guid>
+            <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[arduino和樹莓派相關測試]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="arduino和樹莓派相關測試">arduino和樹莓派相關測試<a href="https://chwe12.github.io/blog/2025-09-23#arduino%E5%92%8C%E6%A8%B9%E8%8E%93%E6%B4%BE%E7%9B%B8%E9%97%9C%E6%B8%AC%E8%A9%A6" class="hash-link" aria-label="Direct link to arduino和樹莓派相關測試" title="Direct link to arduino和樹莓派相關測試" translate="no">​</a></h3>
+<ol>
+<li class="">成功把arduino連上藍芽和濕度感測器，也成功抓到數值，不過沒有拿另一個濕度感測器做校正。 <br></li>
+<li class="">把樹莓派5的連線弄好，沒有買藍芽滑鼠鍵盤有點麻煩，但突發奇想把ipad的藍芽鍵盤拆下來用， <br>
+很可惜的是藍芽鍵盤觸控的地方可能有特別對ipad做設定，所以觸控沒辦法滑到整個螢幕， <br>
+不過也沒關係...至少我可以用藍芽鍵盤打字。<br></li>
+<li class="">學會用筆電的cmd SS連線到樹莓派，總之可以SSH連線真是太好了，也不需要使用Putty。<br>
+本來還想再試一下windows遠端桌面，不過好像有bug的樣子，雖然可以連線進去但是會黑屏。</li>
+<li class="">SSH 連線的方式是在CMD內打 ssh (個人帳號@hostname)，打上密碼之後就可以連線了，比設定VNC簡單許多。<br>
+現在的問題應該是如果我在外面要連上這台樹莓派，好像得先遠端連進我的筆電，如果把樹莓派帶出去又變成需要設定網路。<br>
+參考的網頁：<a href="https://youtu.be/dU-4Bq-Trdg" target="_blank" rel="noopener noreferrer" class="">https://youtu.be/dU-4Bq-Trdg</a> <br></li>
+<li class="">上課練習用手機的BT控制arduino上的LED燈號，可以成功使用，順便弄了一個可以讓燈號閃爍的case，<br>
+還有原來色碼是2,2,2的16進位...雖然知道16進位，但是從來沒有聯想過，真有趣</li>
+</ol>]]></content:encoded>
+            <category>journal</category>
+            <category>Arduino</category>
+            <category>Raspberry Pi</category>
+        </item>
+        <item>
+            <title><![CDATA[2025-09-09]]></title>
+            <link>https://chwe12.github.io/blog/2025-09-09</link>
+            <guid>https://chwe12.github.io/blog/2025-09-09</guid>
+            <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[arduino燒錄錯誤排除]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="arduino燒錄錯誤排除">arduino燒錄錯誤排除<a href="https://chwe12.github.io/blog/2025-09-09#arduino%E7%87%92%E9%8C%84%E9%8C%AF%E8%AA%A4%E6%8E%92%E9%99%A4" class="hash-link" aria-label="Direct link to arduino燒錄錯誤排除" title="Direct link to arduino燒錄錯誤排除" translate="no">​</a></h3>
+<ol>
+<li class="">
+<p>上課在教學燒錄arduino，用燒錄工具的時候出現一個奇怪的錯誤，問老師沒有答案，結果上網找一下原來要系統管理員打開: <br>
+<a href="https://forums.balena.io/t/error-0-h-requestmetadata-is-not-a-function/371138/17" target="_blank" rel="noopener noreferrer" class="">https://forums.balena.io/t/error-0-h-requestmetadata-is-not-a-function/371138/17</a><br>
+好像也可以用之前燒錄SD的另一個tool win32diskmanager<br>
+找了其他指令:<a href="https://korewa72.blogspot.com/2018/09/blog-post.html" target="_blank" rel="noopener noreferrer" class="">https://korewa72.blogspot.com/2018/09/blog-post.html</a> <br></p>
+</li>
+<li class="">
+<p>原來燒錄時不用把下載下來的解壓縮，沒有仔細看副檔名，看到有壓縮的圖標就右鍵解壓縮下去了。<br></p>
+</li>
+</ol>]]></content:encoded>
+            <category>journal</category>
+            <category>Arduino</category>
+        </item>
+        <item>
+            <title><![CDATA[2025-08-20]]></title>
+            <link>https://chwe12.github.io/blog/2025-08-20</link>
+            <guid>https://chwe12.github.io/blog/2025-08-20</guid>
+            <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[IoT上課部分筆記]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="iot上課部分筆記">IoT上課部分筆記<a href="https://chwe12.github.io/blog/2025-08-20#iot%E4%B8%8A%E8%AA%B2%E9%83%A8%E5%88%86%E7%AD%86%E8%A8%98" class="hash-link" aria-label="Direct link to IoT上課部分筆記" title="Direct link to IoT上課部分筆記" translate="no">​</a></h3>
+<p>物聯網短距離通訊使用技術適用低功率射頻電機技術規範草案相關章節一覽表<br>
+<a href="https://www.ncc.gov.tw/chinese/files/16042/8_35490_160422_1_C.PDF" target="_blank" rel="noopener noreferrer" class="">https://www.ncc.gov.tw/chinese/files/16042/8_35490_160422_1_C.PDF</a> <br></p>
+<br>
+<p>短距離：NFC、RFID<br>
+中短距離：Wifi、藍芽、beacon、ZigBee、UWB<br>
+長距離：Sigfox、LoRa、NB-IoT<br></p>
+<br>
+<p>NFC：<br></p>
+<ul>
+<li class="">幾乎是RFID的第二代<br></li>
+<li class="">頻率13.56MHz<br></li>
+<li class="">感應距離最小<br></li>
+<li class="">雙向傳輸，可交換資料<br><br></li>
+</ul>
+<p>RFID：<br></p>
+<ul>
+<li class="">低頻適用生物標籤<br></li>
+<li class="">新資料可附加在舊資料，或是完全複寫標籤資料<br></li>
+<li class="">UHF RFID有大範圍讀取的優點，可同時讀取許多標籤、標籤可重複使用<br></li>
+</ul>]]></content:encoded>
+            <category>Note</category>
+            <category>IoT</category>
+        </item>
+        <item>
+            <title><![CDATA[First Blog Post]]></title>
+            <link>https://chwe12.github.io/blog/first-blog-post</link>
+            <guid>https://chwe12.github.io/blog/first-blog-post</guid>
+            <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Try the first blog post...]]></description>
+            <content:encoded><![CDATA[<p>Try the first blog post...</p>
+<p>修改預設介紹內容<br>
+<!-- -->成功改掉預設的svg圖案</p>]]></content:encoded>
+            <category>journal</category>
+            <category>test</category>
+        </item>
+    </channel>
+</rss>
