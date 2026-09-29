@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_website=globalThis.webpackChunkmy_website||[]).push([[8947],{6600(e){e.exports=JSON.parse('{"authors":[{"name":"Squirrel","title":"Taipei Squirrel","key":"Squirrel","page":null,"count":0}]}')}}]);
