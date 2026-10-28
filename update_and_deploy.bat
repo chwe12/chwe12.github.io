@@ -7,7 +7,7 @@ echo ==================================
 echo Git Local Reset ^& Update Tool
 echo ==================================
 echo 1. Reset and clean only   (discard local changes)
-echo 2. Reset, clean, and pull latest from origin/source
+echo 2. Reset, clean, and pull latest from origin/main
 echo 3. devTest
 echo 4. Local test (Production Build and Production Preview)
 echo 5. Commit and push to formal release
@@ -64,7 +64,7 @@ echo.
 echo  WARNING! 
 echo.
 echo  YOU ARE ABOUT TO **RESET** YOUR LOCAL REPOSITORY
-echo  AND SYNC TO THE LATEST VERSION FROM GITHUB (origin/source).
+echo  AND SYNC TO THE LATEST VERSION FROM GITHUB (origin/main).
 echo.
 echo  This action will **DELETE ALL LOCAL CHANGES** and cannot be undone!
 echo.
@@ -79,13 +79,13 @@ if /I not "%confirm%"=="y" (
   goto menu
 )
 echo.
-echo  This will REMOVE all local changes and untracked files, then pull latest from origin/source!
+echo  This will REMOVE all local changes and untracked files, then pull latest from origin/main!
 pause
 git reset --hard
 git clean -fd
-git pull --rebase origin source
+git pull --rebase origin main
 echo.
-echo  Repository reset and updated from origin/source.
+echo  Repository reset and updated from origin/main.
 pause
 goto menu
 
@@ -136,15 +136,15 @@ if errorlevel 1 (
 )
 endlocal
 
-git pull --rebase origin source
+git pull --rebase origin main
 if errorlevel 1 (
   echo Rebase failed. Please resolve conflicts before pushing.
   pause
   goto menu
 )
 
-git push origin source
-echo Pushed to origin/source
+git push origin main
+echo Pushed to origin/main
 pause
 goto menu
 
