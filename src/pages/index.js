@@ -5,7 +5,21 @@ import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import Heading from '@theme/Heading';
+import {auroraLevel, useAurora} from '@site/src/components/AuroraSync/store';
 import styles from './index.module.css';
+
+/* 地磁暴時在橫幅說明為什麼出現極光 */
+function AuroraNote() {
+  const aurora = useAurora();
+  if (auroraLevel(aurora) === 0) return null;
+  const kp = (aurora.preview ?? aurora.kp).toFixed(1);
+  return (
+    <p className="aurora-note">
+      🌌 地球此刻正在發生地磁暴（Kp {kp}），高緯度地區可能看得到極光
+      {aurora.preview !== null && '（預覽）'}
+    </p>
+  );
+}
 
 
 function HomepageHeader() {
@@ -24,6 +38,7 @@ function HomepageHeader() {
             Intro
           </Link>
         </div>
+        <AuroraNote />
       </div>
     </header>
   );
