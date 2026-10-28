@@ -1,0 +1,60 @@
+/* 跑過畫面的松鼠 */
+.runner {
+  position: fixed;
+  left: 0;
+  bottom: 24px;
+  z-index: 1000;
+  pointer-events: none;
+  animation: run 3.2s linear forwards;
+}
+
+.squirrel {
+  display: block;
+  width: 56px;
+  height: 56px;
+  fill: var(--squirrel-color);
+  transform-origin: 50% 100%;
+  animation: bounce 0.4s ease-in-out infinite;
+}
+
+.tail {
+  transform-origin: 30px 54px;
+  animation: wag 0.4s ease-in-out infinite;
+}
+
+@keyframes run {
+  from { transform: translateX(-80px); }
+  to { transform: translateX(calc(100vw + 80px)); }
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0) scaleY(0.94); }
+  50% { transform: translateY(-14px) scaleY(1); }
+}
+
+@keyframes wag {
+  0%, 100% { transform: rotate(0deg); }
+  50% { transform: rotate(-6deg); }
+}
+
+/* 導覽列 logo 點擊跳躍 */
+.hop {
+  transform-origin: 50% 100%;
+  animation: hop 0.5s ease-out;
+}
+
+@keyframes hop {
+  0% { transform: translateY(0) scale(1, 1); }
+  15% { transform: translateY(0) scale(1.1, 0.85); }
+  45% { transform: translateY(-10px) scale(0.95, 1.08) rotate(-6deg); }
+  75% { transform: translateY(0) scale(1.08, 0.9); }
+  100% { transform: translateY(0) scale(1, 1); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .squirrel,
+  .tail,
+  .hop {
+    animation: none;
+  }
+}
