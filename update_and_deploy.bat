@@ -112,9 +112,39 @@ goto menu
 echo === Git status ===
 git status --short
 echo ------------------------------
+echo What did you change?
+echo   1. blog   (posts)
+echo   2. game   (game pages)
+echo   3. docs   (docs / research)
+echo   4. fix    (bug or typo fix)
+echo   5. site   (layout, config, structure)
+echo   6. none   (no prefix)
+echo ------------------------------
 
+set "prefix="
+set "type="
+set /p type=Type (1-6, blank to cancel):
+if not defined type (
+  echo Cancelled.
+  pause
+  goto menu
+)
+if "%type%"=="1" set "prefix=blog: "
+if "%type%"=="2" set "prefix=game: "
+if "%type%"=="3" set "prefix=docs: "
+if "%type%"=="4" set "prefix=fix: "
+if "%type%"=="5" set "prefix=site: "
+if "%type%"=="6" set "prefix=-"
+if not defined prefix (
+  echo Invalid type.
+  pause
+  goto menu
+)
+if "%prefix%"=="-" set "prefix="
+
+echo Describe the change, e.g. "add 10/28 diary" or "fix home page link"
 set "msg="
-set /p msg=Commit message: 
+set /p msg=Commit message: %prefix%
 if not defined msg (
   echo Cancelled: no commit message provided.
   pause
@@ -125,6 +155,7 @@ REM Delayed expansion keeps " & ! in the message from breaking the commands
 setlocal enabledelayedexpansion
 REM Replace double quotes with single quotes to avoid breaking -m argument
 set "msg=!msg:"='!"
+set "msg=!prefix!!msg!"
 
 git add -A
 git commit -m "!msg!"
