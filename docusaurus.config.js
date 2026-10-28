@@ -23,8 +23,12 @@ const config = {
   /* update到github上 - */
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-
+  markdown: {
+     hooks: {
+       onBrokenMarkdownLinks: 'warn',
+     },
+   },
+  
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
