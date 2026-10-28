@@ -14,6 +14,7 @@ Tool List
 
 Research List
 1. Docusaurus
+2. Notes
 
 ## 外部網頁
 
