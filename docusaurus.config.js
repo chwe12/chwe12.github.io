@@ -20,7 +20,6 @@ const config = {
   trailingSlash: false,
   organizationName: 'chwe12',
   projectName: 'chwe12.github.io',
-  deploymentBranch: 'main',
   /* update到github上 - */
 
   onBrokenLinks: 'throw',
@@ -61,7 +60,7 @@ const config = {
       path: 'game',
       routeBasePath: 'game',
       sidebarPath: './sidebars.js',
-      editUrl: 'https://github.com/chwe12/chwe12.github.io/edit/source/',
+      editUrl: 'https://github.com/chwe12/chwe12.github.io/edit/main/',
       showLastUpdateTime: true,
       showLastUpdateAuthor: true,
     },
