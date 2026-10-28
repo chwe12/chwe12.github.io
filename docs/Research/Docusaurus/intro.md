@@ -91,13 +91,12 @@ my-website/
 2. 要加新的資料夾到首頁顯示時，寫到 docusaurus.config.js
 3. 需要修改首頁文字到 src\components\HomepageFeatures\index.js
 4. 更新版本只要按build的時候出現的提示更新即可，更新發布時 git 出現 node.js 版本太舊，更新完後找到 deploy.yml (.github\workflows)，把 node-version: xx 改成更新後的版本及正常發布
-5. .md不能隨意使用大括號...
+5. .md不能隨意使用大括號...blog 摘要要用 {/* truncate */}，不能用 <!-- truncate -->
 6. 從 3.9.2 升級到 3.10.2 的流程與遇到的問題
-   - 先用 `npm view @docusaurus/core version` 查最新版本，再把四個 Docusaurus 套件一起更新，版本要一致：
+   - 先用 `npm view @docusaurus/core version` 查最新版本再更新：
      ```bash
      npm install @docusaurus/core@3.10.2 @docusaurus/preset-classic@3.10.2 @docusaurus/module-type-aliases@3.10.2 @docusaurus/types@3.10.2
      ```
    - 遇到的錯誤：build 時出現 `To enable Docusaurus Faster options, your site must add the @docusaurus/faster package as a dependency.`
      - 原因：docusaurus.config.js 裡有 `future: { v4: true }`，3.10 開始這個選項會一併開啟 Faster，需要額外的套件
      - 解法：補裝同版本的套件 `npm install @docusaurus/faster@3.10.2`
-   - 警告：`siteConfig.onBrokenMarkdownLinks` 已經 deprecated，v4 會移除，要搬到 `markdown.hooks.onBrokenMarkdownLinks`
