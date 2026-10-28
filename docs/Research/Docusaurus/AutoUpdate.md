@@ -4,15 +4,13 @@ title: Auto Update, Reset tool
 ---
 
 # Git Local Reset & Update Tool 批次檔介紹
-*最後更新時間：2025/11/26*<br />
+*最後更新時間：2026/10/28*<br />
 
 update_and_deploy.bat 是在 Windows 上執行的自動化工具，將操作整合用選項的方式執行 reset、pull、local build test、commit、push。<br />
-需先授權自己的帳號登入使用：<br />
+使用前需要：<br />
 1. 確認電腦已安裝 git和 node.js
-2. set GIT_USER=(自己的帳號)
-3. npm run build
-4. npm run deploy
-5. 此時應該會出現需要登入的帳號密碼
+2. git 已登入自己的 GitHub 帳號，可以 push 到 origin/source
+3. 不需要手動執行 npm run deploy：push 到 source 分支後，GitHub Actions（.github/workflows/deploy.yml）會自動 build 並部署到 main
 <br />
 ---
 

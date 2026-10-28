@@ -34,7 +34,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="~~ <head />">
+      description="Taipei Squirrel 的個人網站：學習筆記、自製小工具與遊戲紀錄">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

@@ -1,10 +1,10 @@
 @echo off
-setlocal enabledelayedexpansion
+setlocal
 
 :menu
 cls
 echo ==================================
-echo Git Local Reset & Update Tool
+echo Git Local Reset ^& Update Tool
 echo ==================================
 echo 1. Reset and clean only   (discard local changes)
 echo 2. Reset, clean, and pull latest from origin/source
@@ -115,18 +115,26 @@ echo ------------------------------
 
 set "msg="
 set /p msg=Commit message: 
-if "%msg%"=="" (
+if not defined msg (
   echo Cancelled: no commit message provided.
   pause
   goto menu
 )
 
+REM Delayed expansion keeps " & ! in the message from breaking the commands
+setlocal enabledelayedexpansion
 REM Replace double quotes with single quotes to avoid breaking -m argument
-set "msg=%msg:"='%"
+set "msg=!msg:"='!"
 
 git add -A
-git commit -m "%msg%"
-if errorlevel 1 goto menu
+git commit -m "!msg!"
+if errorlevel 1 (
+  endlocal
+  echo Commit failed or nothing to commit.
+  pause
+  goto menu
+)
+endlocal
 
 git pull --rebase origin source
 if errorlevel 1 (

@@ -12,7 +12,7 @@ export default function UnitConverter() {
       return;
     }
     if (unit === 'GB') {
-      setResult(`${inputValue} GB 等於 ${inputValue * 1024} MB`);
+      setResult(`${inputValue} GB 等於 ${Number((inputValue * 1024).toFixed(2))} MB`);
     } else {
       setResult(`${inputValue} MB 等於 ${(inputValue / 1024).toFixed(2)} GB`);
     }

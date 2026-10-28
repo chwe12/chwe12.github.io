@@ -15,7 +15,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Tehnical Skill',
+    title: 'Technical Skill',
     Svg: require('@site/static/img/squirrel2.svg').default,
     description: (
       <>

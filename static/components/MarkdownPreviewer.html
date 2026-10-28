@@ -6,7 +6,7 @@
   <script type="module">
 
     (async () => {
-      const { marked } = await import('https://cdn.jsdelivr.net/npm/marked/+esm');
+      const { marked } = await import('https://cdn.jsdelivr.net/npm/marked@16.4.1/+esm');
       const createDOMPurify = (await import('https://cdn.jsdelivr.net/npm/dompurify@3.1.6/+esm')).default;
       const DOMPurify = createDOMPurify(window);
 
