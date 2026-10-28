@@ -71,14 +71,35 @@ const config = {
   ],
   ],
 
+  /* 全站搜尋(本地索引，支援中文) + */
+  themes: [
+    [
+      '@easyops-cn/docusaurus-search-local',
+      {
+        hashed: true,
+        language: ['en', 'zh'],
+        indexBlog: true,
+        docsDir: ['docs', 'game'],
+        docsRouteBasePath: ['docs', 'game'],
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+      },
+    ],
+  ],
+  /* 全站搜尋 - */
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/social-card.png',
       navbar: {
-        title: 'My Website',
+        title: 'Squirrel Site',
+        logo: {
+          alt: 'Squirrel Site Logo',
+          src: 'img/squirrel-logo.svg',
+          srcDark: 'img/squirrel-logo-dark.svg',
+        },
         items: [
           {
             type: 'docSidebar',
