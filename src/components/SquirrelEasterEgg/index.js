@@ -54,11 +54,18 @@ export default function SquirrelEasterEgg() {
       }
     }
 
+    /* 終端機的 squirrel 指令也會叫松鼠出來 */
+    function onRun() {
+      setRunning(true);
+    }
+
     window.addEventListener('keydown', onKeyDown);
+    window.addEventListener('squirrel:run', onRun);
     document.addEventListener('click', onClick);
     document.addEventListener('animationend', onAnimationEnd);
     return () => {
       window.removeEventListener('keydown', onKeyDown);
+      window.removeEventListener('squirrel:run', onRun);
       document.removeEventListener('click', onClick);
       document.removeEventListener('animationend', onAnimationEnd);
     };
