@@ -2,11 +2,18 @@ import React, {useCallback, useEffect, useMemo, useRef, useState} from 'react';
 import {useHistory, useLocation} from '@docusaurus/router';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import {useAllDocsData} from '@docusaurus/plugin-content-docs/client';
+import {
+  AURORA_THRESHOLD,
+  auroraLevel,
+  getAurora,
+  loadKp,
+  setPreview,
+} from '@site/src/components/AuroraSync/store';
 import styles from './styles.module.css';
 
 /*
  * 終端機彩蛋：按 ` 開啟（手機連點 logo 五下）
- * 純前端、唯讀：只讀取本站公開頁面，輸出一律當純文字顯示，不會寫入任何資料
+ * 純前端、唯讀：只讀取本站公開頁面和 NOAA 的 Kp 指數，輸出一律當純文字顯示，不會寫入任何資料
  */
 
 const SITE_BIRTHDAY = new Date('2025-08-12');
@@ -404,6 +411,30 @@ export default function SquirrelTerminal() {
       case 'nano':
         print(['~', '~', '~', '"squirrel.txt" [唯讀]', '', '（放心，你沒有被困住）']);
         break;
+
+      case 'aurora': {
+        if (arg === 'on') {
+          setPreview(6);
+          return print('🌌 極光預覽開啟（只有你看得到），aurora off 關閉');
+        }
+        if (arg === 'off') {
+          setPreview(null);
+          return print('預覽關閉，回到真實的天空');
+        }
+        print('🛰️  正在詢問 NOAA……');
+        const kp = await loadKp();
+        if (kp === null) return print('連不上 NOAA，稍後再試', 'err');
+        const status = auroraLevel({kp, preview: null})
+          ? '🌌 地磁暴進行中！看看網站頂部'
+          : `地磁平靜，Kp ≥ ${AURORA_THRESHOLD} 時網站才會出現極光`;
+        print([
+          `目前 Kp ${kp.toFixed(1)}（最近一小時最大值）`,
+          status,
+          getAurora().preview !== null ? '（目前開著預覽，aurora off 關閉）' : '想先看看效果？aurora on',
+          '資料來源：NOAA 太空天氣預報中心',
+        ]);
+        break;
+      }
 
       case 'hi':
       case 'hello':
