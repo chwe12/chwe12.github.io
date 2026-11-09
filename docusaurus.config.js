@@ -66,7 +66,7 @@ const config = {
       sidebarPath: './sidebars.js',
       editUrl: 'https://github.com/chwe12/chwe12.github.io/edit/main/',
       showLastUpdateTime: true,
-      showLastUpdateAuthor: true,
+      showLastUpdateAuthor: false,
     },
   ],
   ],
