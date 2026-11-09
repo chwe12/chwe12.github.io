@@ -4,7 +4,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   /* 自訂名稱和icon + */
   title: 'Squirrel Site',
-  tagline: 'My Journey ?',
+  tagline: 'My Journey',
   favicon: 'img/favicon.ico',
   /* 自訂名稱和icon - */
 

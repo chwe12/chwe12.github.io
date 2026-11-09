@@ -21,4 +21,4 @@ Research List
 有空隨便試試的東西，靜態網頁放在My_Tools裡
 - 網頁股票小插件：https://github.com/chwe12/Taiwan-Stock-Watchlist
 - work-companion：https://chwe12.github.io/work-companion/
-- 松鼠沙盒小遊戲 : https://squirrel-sandbox-kelpie620ae5.netlify.app/
+- 松鼠沙盒文字小遊戲 : https://squirrel-sandbox-kelpie620ae5.netlify.app/
