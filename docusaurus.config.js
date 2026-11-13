@@ -69,6 +69,18 @@ const config = {
       showLastUpdateAuthor: false,
     },
   ],
+  [
+    '@docusaurus/plugin-content-docs',
+    {
+      id: 'book-docs',
+      path: 'book',
+      routeBasePath: 'book',
+      sidebarPath: './sidebars.js',
+      editUrl: 'https://github.com/chwe12/chwe12.github.io/edit/main/',
+      showLastUpdateTime: true,
+      showLastUpdateAuthor: false,
+    },
+  ],
   ],
 
   /* 全站搜尋(本地索引，支援中文) + */
@@ -79,8 +91,8 @@ const config = {
         hashed: true,
         language: ['en', 'zh'],
         indexBlog: true,
-        docsDir: ['docs', 'game'],
-        docsRouteBasePath: ['docs', 'game'],
+        docsDir: ['docs', 'game'], // 開放 Book 時加回 'book'
+        docsRouteBasePath: ['docs', 'game'], // 開放 Book 時加回 'book'
         highlightSearchTermsOnTargetPage: true,
         explicitSearchResultPath: true,
       },
@@ -109,6 +121,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/game', label: 'Game', position: 'left'},
+          // {to: '/book', label: 'Book', position: 'left'}, // Book 入口暫時隱藏
         ],
       },
 
@@ -147,6 +160,11 @@ const config = {
                 label: 'Game',
                 to: '/game',
               },
+              // Book 入口暫時隱藏
+              // {
+              //   label: 'Book',
+              //   to: '/book',
+              // },
             ],
           },          
 
