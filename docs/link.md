@@ -4,11 +4,12 @@ sidebar_position: 2
 
 ## My Test Tool
 
-用AI輔助做一些平常容易用到的工具，以下是直接內嵌的，其他網頁小工具在下方外部網頁的連結<br />
+用AI輔助做一些平常容易用到的工具，以下是直接內嵌的工具，部分小工具在下方外部網頁的連結<br />
 
 Tool List
 1. UnitConverter: 磁碟分割換算小工具
 2. MarkdownPreviewer: markdown即時預覽
+3. DeskCal: 僅個人使用的桌面月曆、工作管理
 
 ## Research
 
