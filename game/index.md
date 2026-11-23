@@ -8,6 +8,8 @@ title: Game List
 Game List：
 1. Core Keeper
 2. yysls
+3. Terraria
+4. StardewVally
 
 ## 遊戲紀錄
 

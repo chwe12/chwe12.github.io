@@ -89,8 +89,8 @@ const config = {
         hashed: true,
         language: ['en', 'zh'],
         indexBlog: true,
-        docsDir: ['docs', 'game'], // 開放 Book 時加回 'book'
-        docsRouteBasePath: ['docs', 'game'], // 開放 Book 時加回 'book'
+        docsDir: ['docs', 'game', 'book'],
+        docsRouteBasePath: ['docs', 'game', 'book'],
         highlightSearchTermsOnTargetPage: true,
         explicitSearchResultPath: true,
       },
@@ -119,7 +119,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/game', label: 'Game', position: 'left'},
-          // {to: '/book', label: 'Book', position: 'left'}, // Book 入口暫時隱藏
+          {to: '/book', label: 'Book', position: 'left'},
         ],
       },
 
@@ -158,11 +158,10 @@ const config = {
                 label: 'Game',
                 to: '/game',
               },
-              // Book 入口暫時隱藏
-              // {
-              //   label: 'Book',
-              //   to: '/book',
-              // },
+              {
+                label: 'Book',
+                to: '/book',
+              },
             ],
           },          
 
