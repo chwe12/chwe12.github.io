@@ -2,7 +2,7 @@
 slug: first-blog-post
 title: First Blog Post
 authors: Squirrel
-tags: [journal, test]
+tags: [projects]
 ---
 
 Try the first blog post...  

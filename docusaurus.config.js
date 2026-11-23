@@ -44,6 +44,8 @@ const config = {
          },
         blog: {
           showReadingTime: true,
+          /* 分類定義在 blog/tags.yml，用到未定義的 tag 會警告 */
+          onInlineTags: 'warn',
           /* 控制blog側邊 recent post 的數量 + */
           blogSidebarTitle: 'All posts', 
           blogSidebarCount: 'ALL',
