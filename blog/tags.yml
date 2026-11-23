@@ -21,13 +21,13 @@ game:
 # 生活
 productivity:
   label: Productivity
-  description: Note-taking methods, calendars and task management.
+  description: Some tools, creative processes.
 reading:
   label: Reading
   description: Thoughts from books, videos and career thinking.
 travel:
   label: Travel
-  description: Trips, studying abroad and learning English.
+  description: Trips, studying abroad.
 craft:
   label: Craft
-  description: Handcraft workshops and hands-on hobbies.
+  description: Hands-on hobbies.
