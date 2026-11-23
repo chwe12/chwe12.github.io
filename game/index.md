@@ -7,6 +7,7 @@ title: Game List
 
 Game List：
 1. Core Keeper
+2. yysls
 
 ## 遊戲紀錄
 
