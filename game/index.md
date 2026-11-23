@@ -6,10 +6,10 @@ title: Game List
 ## 遊戲專欄
 
 Game List：
-1. Core Keeper
-2. yysls
-3. Terraria
-4. StardewVally
+1. [Core Keeper](./Game/CoreKeeper.md)
+2. [yysls](./Game/yysls.md)
+3. [Terraria](./Game/Terraria.md)
+4. [StardewVally](./Game/StardewVally.md)
 
 ## 遊戲紀錄
 
