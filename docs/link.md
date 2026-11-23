@@ -18,7 +18,7 @@ Research List
 1. Docusaurus
 2. Notes
 
-## 外部網頁
+## Website
 
 有空隨便試試的東西，靜態網頁放在My_Tools裡
 - 網頁股票小插件：https://github.com/chwe12/Taiwan-Stock-Watchlist

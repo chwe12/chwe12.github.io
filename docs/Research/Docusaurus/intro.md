@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Docusaurus learning note
+title: Docusaurus Learning Notes
 ---
 
 # Docusaurus learning note

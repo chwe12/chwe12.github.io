@@ -4,26 +4,35 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'About ME',
+    title: 'About Me',
     Svg: require('@site/static/img/universe.svg').default,
     description: (
       <>
         Engineer with experience in firmware development, familiar with laptop and server systems.
         <br />
         Specializing in problem-solving, debugging, and issue management.
+        <br />
+        Curious about everything, always learning something new.
+        <br />
       </>
     ),
   },
   {
-    title: 'Technical Skill',
+    title: 'Technical Skills',
     Svg: require('@site/static/img/squirrel2.svg').default,
     description: (
       <>
         Software and System Technology
         <br />
-        System architecture
+        System Architecture
         <br />
         BIOS/Firmware development Project Management
+        <br />
+        Application Engineering
+        <br />
+        DevOps / Tooling / AI Tools
+        <br />
+        Debugging tools
         <br />
       </>
     ),

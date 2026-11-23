@@ -47,7 +47,7 @@ const config = {
           /* 分類定義在 blog/tags.yml，用到未定義的 tag 會警告 */
           onInlineTags: 'warn',
           /* 控制blog側邊 recent post 的數量 + */
-          blogSidebarTitle: 'All posts', 
+          blogSidebarTitle: 'All Posts', 
           blogSidebarCount: 'ALL',
           /* 控制blog側邊 recent post 的數量 - */
         },
@@ -117,7 +117,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Doc',
+            label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/game', label: 'Game', position: 'left'},
@@ -140,7 +140,7 @@ const config = {
                 to: '/docs/link',
               },
               {
-                label: 'My_Tools',
+                label: 'My Tools',
                 to: '/docs/My_Tools/UnitConverter',
               },
               {
@@ -168,7 +168,7 @@ const config = {
           },          
 
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} , Taipei squirrel`,
+        copyright: `Copyright © ${new Date().getFullYear()}, Taipei Squirrel`,
       },
       prism: {
         theme: prismThemes.github,
