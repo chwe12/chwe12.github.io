@@ -16,6 +16,7 @@ Blog 記錄當下的過程，比較零碎；累積到一定的量後，會依主
 | [IoT learning note](./IoT_learning_note.md) | 通訊技術、RFID/NFC、定位、EPC、考題分布 | 2025 IoT 課程與考試 |
 | [Arduino & Raspberry Pi note](./Arduino_RaspberryPi.md) | 燒錄錯誤、SSH 連線、SSD 掛載 | 2025 上課與自己測試 |
 | [AI tools & note system](./Note_anytype.md) | 筆記方法比較、Claude 連接 Anytype | 2025–2026 |
+| [Firmware & software basics](./Firmware_Software.md) | UEFI/BIOS、Boot order、用 Rufus 製作安裝 USB | 2026 |
 
 ## 待整理
 
