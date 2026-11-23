@@ -116,14 +116,15 @@ echo What did you change?
 echo   1. blog   (posts)
 echo   2. game   (game pages)
 echo   3. docs   (docs / research)
-echo   4. fix    (bug or typo fix)
-echo   5. site   (layout, config, structure)
-echo   6. none   (no prefix)
+echo   4. book   (book notes)
+echo   5. fix    (bug or typo fix)
+echo   6. site   (layout, config, structure)
+echo   7. none   (no prefix)
 echo ------------------------------
 
 set "prefix="
 set "type="
-set /p type=Type (1-6, blank to cancel):
+set /p type=Type (1-7, blank to cancel):
 if not defined type (
   echo Cancelled.
   pause
@@ -132,9 +133,10 @@ if not defined type (
 if "%type%"=="1" set "prefix=blog: "
 if "%type%"=="2" set "prefix=game: "
 if "%type%"=="3" set "prefix=docs: "
-if "%type%"=="4" set "prefix=fix: "
-if "%type%"=="5" set "prefix=site: "
-if "%type%"=="6" set "prefix=-"
+if "%type%"=="4" set "prefix=book: "
+if "%type%"=="5" set "prefix=fix: "
+if "%type%"=="6" set "prefix=site: "
+if "%type%"=="7" set "prefix=-"
 if not defined prefix (
   echo Invalid type.
   pause
